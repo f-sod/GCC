@@ -34,14 +34,35 @@ def main():
         train_size = int(len(response_indeces_list)*0.8)
         train_indices[i] = response_indeces_list[:train_size]
         test_indices[i] = response_indeces_list[train_size:]
+        receptor_name = responses.index[i]
+        profiles_train = profiles_i.loc[train_indices[i], :]
+        profiles_train.to_csv(
+            f'../Data/Output/{receptor_name}_X_train.csv', sep='\t')
+        responses_train = responses_i[train_indices[i]]
+        responses_train.to_csv(
+            f'../Data/Output/{receptor_name}_y_train.csv', sep='\t')
+
+        profiles_test = profiles_i.loc[test_indices[i], :]
+        profiles_test.to_csv(
+            f'../Data/Output/{receptor_name}_X_test.csv', sep='\t')
+        responses_test = responses_i[test_indices[i]]
+        responses_test.to_csv(
+            f'../Data/Output/{receptor_name}_y_test.csv', sep='\t')
 
     mfe.cross_validate_and_fit_forests(
         X_train=copy.deepcopy(profiles_cid), y_train=responses, train_indices=train_indices)
-    predictions = mfe.predict(X_test=profiles_cid, test_indices=test_indices)
-    for i, pred in enumerate(predictions):
+    predictions_test = mfe.predict(
+        X_test=profiles_cid, test_indices=test_indices)
+    predictions_train = mfe.predict(
+        X_test=profiles_cid, test_indices=train_indices)
+    for i, pred in enumerate(predictions_test):
         act = responses.iloc[i, :]
-        act = act[test_indices[i]]
-        print(f'{responses.index[i]}: {matthews_corrcoef(act.values, pred)}')
+        act_test = act[test_indices[i]]
+        act_train = act[train_indices[i]]
+        print(
+            f'test MCC for {responses.index[i]}: {matthews_corrcoef(act_test.values, pred)}')
+        print(
+            f'train MCC for {responses.index[i]}: {matthews_corrcoef(act_train.values, predictions_train[i])}')
 
 
 if __name__ == '__main__':

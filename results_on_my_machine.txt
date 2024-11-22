@@ -1,0 +1,50 @@
+Agonists:
+RF, morphological FP: 0.418 (default)
+RF, morphological FP: 0.227 (tuned individually)
+RF, morphological FP: 0.364 (tuned with Grid Search)
+
+MLP, morphological FP: 0.191 (default)
+MLP, morphological FP: 0.411 (tuned individually)
+MLP, morphological FP: 0.267 (tuned individually, with early stopping)
+
+RF, structural FP: 0.465 (default)
+RF, structural FP: 0.465 (tuned individually)
+RF, structural FP: 0.367 (tuned with Grid Search)
+
+MLP, structural FP: 0.356 (default)
+MLP, structural FP: 0.353 (tuned individually)
+MLP, morphological FP: 0.375 (tuned individually, with early stopping)
+
+RF, combined FP: 0.484 (default)
+RF, combined FP: 0.418 (tuned individually)
+RF, combined FP: 0.483 (tuned with Grid Search)
+
+MLP, combined FP: 0.419 (default)
+MLP, combined FP: 0.434 (tuned individually)
+MLP, morphological FP: 0.414 (tuned individually, with early stopping)
+
+Antagonists:
+
+RF, morphological FP: 0.294 (default)
+RF, morphological FP: 0.337 (tuned individually)
+RF, morphological FP: 0.333 (tuned with Grid Search)
+
+MLP, morphological FP: 0.348 (default)
+MLP, morphological FP: 0.284 (tuned individually)
+MLP, morphological FP: 0.330 (tuned individually, with early stopping)
+
+RF, structural FP: 0.298 (default)
+RF, structural FP: 0.479 (tuned individually)
+RF, structural FP: 0.334 (tuned with Grid Search)
+
+MLP, structural FP: 0.29 (default)
+MLP, structural FP: 0.359 (tuned individually)
+MLP, morphological FP: 0.334 (tuned individually, with early stopping)
+
+RF, combined FP: 0.42 (default)
+RF, combined FP: 0.42 (tuned individually)
+RF, combined FP: 0.42 (tuned with Grid Search)
+
+MLP, combined FP: 0.414 (default)
+MLP, combined FP: 0.438 (tuned individually)
+MLP, morphological FP: 0.461 (tuned individually, with early stopping)
