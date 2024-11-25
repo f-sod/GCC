@@ -16,7 +16,7 @@ data = subset(data, select = -CID)
 data = subset(data, select = -X)
 resp = data[receptor]
 
-data$discretized.response = resp
+
 out = varrank(data.df = data, variable.important = receptor, method = "kwak", 
                  discretization.method = 6, ratio = 1, verbose = TRUE,scheme = "miq", algorithm="forward")
 
