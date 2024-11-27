@@ -1,0 +1,2 @@
+set	error measure	receptor	result
+train	MCC	

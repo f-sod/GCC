@@ -1,7 +1,7 @@
 import pandas as pd
 from multi_task_classification_forest_ensemble import MultiTaskForestEnsemble
 import random
-from sklearn.metrics import matthews_corrcoef
+from sklearn.metrics import matthews_corrcoef, roc_auc_score, balanced_accuracy_score
 import numpy as np
 import copy
 from sklearn.model_selection import StratifiedKFold
@@ -14,29 +14,28 @@ def main():
         columns=['Metadata_broad_sample', 'CPD_NAME', 'CPD_SMILES'], inplace=True)
     profiles_cid.set_index('CID', drop=True, inplace=True)
 
-    #profiles_cid = pd.read_csv('../Data/CellProfiles/structural_fps_matrix.csv', sep = '\t')
-    #profiles_cid.set_index('CID', drop=True, inplace=True)
-    #responses = pd.read_csv(
+    # profiles_cid = pd.read_csv('../Data/CellProfiles/structural_fps_matrix.csv', sep = '\t')
+    # profiles_cid.set_index('CID', drop=True, inplace=True)
+    # responses = pd.read_csv(
     #    '../Data/Output/activity_to_receptors.csv', sep='\t')
-    responses = pd.read_csv('../Data/Output/agonists.csv', sep = '\t')
+    responses = pd.read_csv('../Data/Output/agonists.csv', sep='\t')
     responses.set_index('receptor', drop=True, inplace=True)
-    #responses.drop(index='rxr', inplace=True)
+    # responses.drop(index='rxr', inplace=True)
     responses.columns = responses.columns.astype('int')
     responses = responses.astype('float')
     present_cids = set(responses.columns)
     present_cids = present_cids.intersection(set(profiles_cid.index))
     responses = responses.loc[:, list(present_cids)]
     profiles_cid = profiles_cid.loc[list(present_cids), :]
-    
+
     profiles_cid = profiles_cid[~profiles_cid.index.duplicated(
         keep='first')]
-    #n_forests = 7
+    # n_forests = 7
     n_forests = 8
     mfe = MultiTaskForestEnsemble(n_forests=n_forests, class_weight='balanced', n_tree_range=[
                                   100, 200, 300, 400, 500], max_depth_range=[10, 20, 30], min_samples_leaf_range=[5, 10, 15])
     train_indices = {}
     test_indices = {}
-
 
     cv_folds = []
     for i in range(n_forests):
@@ -83,14 +82,31 @@ def main():
         X_test=profiles_cid, test_indices=test_indices, train_feature_list=features_for_training)
     predictions_train = mfe.predict(
         X_test=profiles_cid, test_indices=train_indices, train_feature_list=features_for_training)
+
+    output_path = '../results_receptor_specific_models_agonists_morphological_fps.csv'
+    with open(output_path, 'w') as output:
+        output.write(f'set\treceptor\tMCC\tbalanced acc\tAUC\n')
     for i, pred in enumerate(predictions_test):
         act = responses.iloc[i, :]
         act_test = act[test_indices[i]]
         act_train = act[train_indices[i]]
+        with open(output_path, 'a') as output:
+            test_mcc = matthews_corrcoef(act_test.values, pred)
+            train_mcc = matthews_corrcoef(
+                act_train.values, predictions_train[i])
+            test_balanced_acc = balanced_accuracy_score(act_test.values, pred)
+            train_balanced_acc = balanced_accuracy_score(
+                act_train.values, predictions_train[i])
+            test_auc = roc_auc_score(act_test.values, pred)
+            train_auc = roc_auc_score(act_train.values, predictions_train[i])
+            output.write(
+                f'test\t{responses.index[i]}\t{test_mcc}\t{test_balanced_acc}\t{test_auc}\n')
+            output.write(
+                f'train\t{responses.index[i]}\t{train_mcc}\t{train_balanced_acc}\t{train_auc}\n')
         print(
-            f'test MCC for {responses.index[i]}: {matthews_corrcoef(act_test.values, pred)}')
+            f'test MCC for {responses.index[i]}: {test_mcc}')
         print(
-            f'train MCC for {responses.index[i]}: {matthews_corrcoef(act_train.values, predictions_train[i])}')
+            f'train MCC for {responses.index[i]}: {train_mcc}')
 
 
 if __name__ == '__main__':
