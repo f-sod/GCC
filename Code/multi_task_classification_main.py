@@ -8,27 +8,38 @@ from sklearn.model_selection import StratifiedKFold
 
 
 def main():
-    profiles_cid = pd.read_pickle('../Data/Output/profiles_with_CID.pkl')
+    profiles_cid = pd.read_pickle('../Data/CellProfiles/output_notebook_1.pkl')
+    print(profiles_cid.head())
     profiles_cid.drop(
         columns=['Metadata_broad_sample', 'CPD_NAME', 'CPD_SMILES'], inplace=True)
     profiles_cid.set_index('CID', drop=True, inplace=True)
-    responses = pd.read_csv(
-        '../Data/Output/activity_to_receptors.csv', sep='\t')
+    print(profiles_cid.head())
+    #profiles_cid = pd.read_csv('../Data/CellProfiles/structural_fps_matrix.csv', sep = '\t')
+    #profiles_cid.set_index('CID', drop=True, inplace=True)
+    #responses = pd.read_csv(
+    #    '../Data/Output/activity_to_receptors.csv', sep='\t')
+    responses = pd.read_csv('../Data/Output/agonists.csv', sep = '\t')
     responses.set_index('receptor', drop=True, inplace=True)
+    responses.drop(index='rxr', inplace=True)
     responses.columns = responses.columns.astype('int')
+    responses = responses.astype('float')
     present_cids = set(responses.columns)
     present_cids = present_cids.intersection(set(profiles_cid.index))
     responses = responses.loc[:, list(present_cids)]
     profiles_cid = profiles_cid.loc[list(present_cids), :]
-
+    
     profiles_cid = profiles_cid[~profiles_cid.index.duplicated(
         keep='first')]
-    mfe = MultiTaskForestEnsemble(n_forests=8, class_weight='balanced', n_tree_range=[
+    n_forests = 7
+    #n_forests = 8
+    mfe = MultiTaskForestEnsemble(n_forests=n_forests, class_weight='balanced', n_tree_range=[
                                   100, 200, 300, 400, 500], max_depth_range=[10, 20, 30], min_samples_leaf_range=[5, 10, 15])
     train_indices = {}
     test_indices = {}
+
+
     cv_folds = []
-    for i in range(8):
+    for i in range(n_forests):
         responses_i = responses.iloc[i, :].dropna()
         profiles_i = profiles_cid.loc[list(responses_i.index), :]
         response_indeces_list = list(responses_i.index)
