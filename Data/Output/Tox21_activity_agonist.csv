@@ -1,0 +1,647 @@
+PUBCHEM_CID,Endocrine_activity,CAS,SMILES,CPD_NAME
+323,inactive,91-64-5,O=C1C=Cc2ccccc2O1,Coumarin
+338,inactive,69-72-7,OC(=O)c1ccccc1O,Salicylic acid
+679,inactive,67-68-5,CS(C)=O,Dimethyl sulfoxide
+896,inactive,73-31-4,CC(=O)NCCc2cnc1ccc(cc12)OC,Melatonin
+1318,active,66-71-7,c1ccnc3c1ccc2cccnc23,"1,10-Phenanthroline"
+1345,active,85532-75-8,CC(CC)N(C)C(=O)c2cc1ccccc1c(n2)c3ccccc3Cl,PK 11195
+1355,inactive,6640-24-0,Clc1cc(ccc1)N2CCNCC2,1-(3-Chlorophenyl)piperazine
+1359,inactive,25371-96-4,FC(F)(F)c1ccccc1n2ccnc2,1-[2-(Trifluoromethyl)phenyl]-1H-imidazole
+1480,inactive,93-76-5,Clc1cc(OCC(=O)O)c(Cl)cc1Cl,"2,4,5-Trichlorophenoxyacetic acid"
+1486,inactive,94-75-7,Clc1cc(Cl)ccc1OCC(=O)O,"2,4-Dichlorophenoxyacetic acid"
+1493,active,51-28-5,O=[N+]([O-])c1cc(ccc1O)[N+]([O-])=O,"2,4-Dinitrophenol"
+1533,inactive,695-34-1,Cc1ccnc(N)c1,4-Methylpyridin-2-amine
+1674,active,56-49-5,Cc2ccc3cc1c5ccccc5ccc1c4CCc2c34,3-Methylcholanthrene
+1687,active,5627-46-3,CN4C1CCC4CC(C1)OC(c2ccccc2)c3ccc(Cl)cc3,Clobenztropine
+1752,inactive,104-40-5,Oc1ccc(CCCCCCCCC)cc1,4-Nonylphenol
+1775,inactive,57-41-0,O=C1NC(=O)C(N1)(c2ccccc2)c3ccccc3,"5,5-Diphenylhydantoin"
+1892,inactive,519-37-9,O=C2c1n(cnc1N(C)C(=O)N2C)CCO,Etofylline
+1979,inactive,827-61-2,CC(=O)OC2CN1CCC2CC1,Aceclidine
+1981,inactive,53164-05-9,Clc1ccc(cc1)C(=O)n3c2ccc(cc2c(CC(=O)OCC(=O)O)c3C)OC,Acemetacin
+1983,inactive,103-90-2,Oc1ccc(NC(C)=O)cc1,Acetaminophen
+1986,inactive,59-66-5,O=S(N)(=O)c1nnc(NC(C)=O)s1,Acetazolamide
+1989,inactive,968-81-0,O=C(NC1CCCCC1)NS(=O)(=O)c2ccc(cc2)C(C)=O,Acetohexamide
+2051,inactive,175178-82-2,Clc1cccc(c1)Nc3ncnc2cc(OC)c(cc23)OC,Tyrphostin
+2052,inactive,118409-57-7,Oc1ccc(\C=C(/C#N)C#N)cc1O,Tyrphostin 23
+2061,inactive,118409-58-8,Oc1cc(\C=C(/C#N)C#N)cc(O)c1O,Tyrphostin 25
+2075,inactive,3011-89-0,O=C(N)c1ccc(cc1Cl)[N+]([O-])=O,2-Chloro-4-nitrobenzamide
+2078,inactive,15972-60-8,ClCC(=O)N(COC)c1c(cccc1CC)CC,Alachlor
+2082,active,54965-21-8,O=C(OC)Nc1nc2cc(ccc2n1)SCCC,Albendazole
+2083,inactive,18559-94-9,OCc1cc(ccc1O)C(O)CNC(C)(C)C,Albuterol
+2119,inactive,13655-52-2,CC(C)NCC(O)COc1ccccc1CC=C,Alprenolol
+2120,inactive,51411-04-2,O=C(O)CN3C(=O)c2cccc1cccc(c12)C3=O,Alrestatin
+2122,inactive,5588-16-9,NS(=O)(=O)c2cc1c(NC(NS1(=O)=O)CSCC=C)cc2Cl,Althiazide
+2123,inactive,645-05-6,CN(C)c1nc(nc(n1)N(C)C)N(C)C,Hexamethylmelamine
+2126,active,102121-60-8,O=C(O)c1ccc(cc1)NC(=O)c2ccc3c(c2)C(C)(C)CCC3(C)C,AM580
+2130,inactive,768-94-5,NC13CC2CC(CC(C1)C2)C3,Amantadine
+2145,inactive,125-84-8,CCC1(CCC(=O)NC1=O)c2ccc(N)cc2,Aminoglutethimide
+2153,active,58-55-9,O=C2c1ncnc1N(C)C(=O)N2C,Theophylline
+2157,active,1951-25-3,CCN(CC)CCOc1c(I)cc(cc1I)C(=O)c2c3ccccc3oc2CCCC,Amiodarone
+2159,inactive,71675-85-9,CCN2CCCC2CNC(=O)c1cc(c(N)cc1OC)S(=O)(=O)CC,Amisulpride
+2170,active,14028-44-5,Clc1ccc2Oc4ccccc4N=C(c2c1)N3CCNCC3,Amoxapine
+2196,inactive,72432-10-1,O=C2CCCN2C(=O)c1ccc(OC)cc1,Aniracetam
+2206,inactive,60-80-0,O=C2C=C(C)N(C)N2c1ccccc1,Phenazone
+2230,inactive,63-75-2,CN1CC(=CCC1)C(=O)OC,Arecoline
+2247,active,68844-77-9,Fc1ccc(cc1)Cn4c5ccccc5nc4NC3CCN(CCc2ccc(OC)cc2)CC3,Astemizole
+2249,inactive,29122-68-7,CC(C)NCC(O)COc1ccc(cc1)CC(N)=O,Atenolol
+2256,inactive,1912-24-9,Clc1nc(NCC)nc(NC(C)C)n1,Atrazine
+2264,inactive,123040-69-7,Clc1cc(c2OCC(=O)N(C)c2c1)C(=O)NC4CN3CCC4CC3,Azasetron
+2265,inactive,446-86-6,O=[N+]([O-])c3ncn(C)c3Sc2ncnc1ncnc12,Azathioprine
+2268,active,86-50-0,COP(=S)(OC)SCN1N=Nc2ccccc2C1=O,Azinphos-methyl
+2284,inactive,1134-47-0,Clc1ccc(cc1)C(CN)CC(=O)O,Baclofen
+2286,active,1675-54-3,CC(C)(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4,Bisphenol A diglycidyl ether
+2310,inactive,64-65-3,CCC1(C)CC(=O)NC(=O)C1,Bemegride
+2315,inactive,73-48-3,FC(F)(F)c1cc2NC(NS(=O)(=O)c2cc1S(N)(=O)=O)Cc3ccccc3,Bendroflumethiazide
+2328,inactive,25057-89-0,CC(C)N1C(=O)c2ccccc2NS1(=O)=O,Bentazone
+2333,active,3562-84-3,Brc1cc(cc(Br)c1O)C(=O)c2c3ccccc3oc2CC,Benzbromarone
+2336,active,50-32-8,c1cc2c3ccc4cccc5ccc(cc2cc1)c3c45,Benzo(a)pyrene
+2337,inactive,94-09-7,Nc1ccc(cc1)C(=O)OCC,Benzocaine
+2343,inactive,91-33-8,NS(=O)(=O)c3cc1c(N=C(NS1(=O)=O)CSCc2ccccc2)cc3Cl,Benzthiazide
+2347,active,85-68-7,O=C(OCc1ccccc1)c2ccccc2C(=O)OCCCC,Butyl benzyl phthalate
+2351,inactive,64706-54-3,CC(C)COCC(CN(Cc1ccccc1)c2ccccc2)N3CCCC3,Bepridil
+2355,inactive,484-20-8,COc1c3ccoc3cc2OC(=O)C=Cc12,5-Methoxypsoralen
+2369,inactive,63659-18-7,CC(C)NCC(O)COc1ccc(cc1)CCOCC2CC2,Betaxolol
+2374,active,88-58-4,CC(C)(C)c1cc(O)c(cc1O)C(C)(C)C,"2,5-Di-tert-butylbenzene-1,4-diol"
+2377,active,90293-01-9,CNCCCCOc2ccccc2Cc1ccccc1,Bifemelane
+2378,active,60628-96-8,c1cc(ccc1c2ccccc2)C(c3ccccc3)n4ccnc4,Bifonazole
+2391,active,603-50-9,CC(=O)Oc1ccc(cc1)C(c2ccc(OC(C)=O)cc2)c3ccccn3,Bisacodyl
+2435,inactive,59803-98-4,Brc2c3nccnc3ccc2NC1=NCCN1,Brimonidine
+2446,inactive,4093-35-0,Nc1cc(OC)c(cc1Br)C(=O)NCCN(CC)CC,Bromopride
+2448,inactive,10457-90-6,Fc1ccc(cc1)C(=O)CCCN2CCC(O)(CC2)c3ccc(Br)cc3,Bromperidol
+2453,active,521-74-4,Oc1c(Br)cc(Br)c2cccnc12,Broxyquinoline
+2471,inactive,28395-03-1,O=S(N)(=O)c2cc(cc(NCCCC)c2Oc1ccccc1)C(=O)O,Bumetanide
+2477,inactive,36505-84-7,O=C4CC1(CCCC1)CC(=O)N4CCCCN2CCN(CC2)c3ncccn3,Buspirone
+2482,active,94-25-7,Nc1ccc(cc1)C(=O)OCCCC,Butyl 4-aminobenzoate
+2519,inactive,58-08-2,O=C2c1n(C)cnc1N(C)C(=O)N2C,Caffeine
+2520,inactive,52-53-9,COc1cc(ccc1OC)C(C#N)(CCCN(C)CCc2ccc(OC)c(OC)c2)C(C)C,Verapamil
+2540,active,145040-37-5,O=C(OC1CCCCC1)OC(C)OC(=O)c5cccc6nc(OCC)n(Cc2ccc(cc2)c3ccccc3c4nnnn4)c56,Candesartan cilexetil
+2554,active,298-46-4,NC(=O)N2c3ccccc3C=Cc1ccccc12,Carbamazepine
+2562,inactive,77-23-6,CCN(CC)CCOCCOC(=O)C1(CCCC1)c2ccccc2,Carbetapentane
+2603,active,555-60-2,Clc1cc(N\N=C(/C#N)C#N)ccc1,Carbonyl cyanide chlorophenylhydrazone
+2662,active,169590-42-5,NS(=O)(=O)c1ccc(cc1)n3nc(cc3c2ccc(C)cc2)C(F)(F)F,Celecoxib
+2717,inactive,80-77-3,O=C1CCS(=O)(=O)C(N1C)c2ccc(Cl)cc2,Chlormezanone
+2720,inactive,58-94-6,NS(=O)(=O)c2cc1c(N=CNS1(=O)=O)cc2Cl,Chlorothiazide
+2723,inactive,88-04-0,Oc1cc(C)c(Cl)c(C)c1,"4-Chloro-3,5-dimethylphenol"
+2724,inactive,886-74-8,Clc1ccc(OCC(O)COC(N)=O)cc1,Chlorphenesin carbamate
+2726,active,50-53-3,CN(C)CCCN1c3ccccc3Sc2ccc(Cl)cc12,Chlorpromazine
+2727,inactive,94-20-2,O=S(=O)(NC(=O)NCCC)c1ccc(Cl)cc1,Chlorpropamide
+2732,inactive,77-36-1,NS(=O)(=O)c1cc(ccc1Cl)C3(O)NC(=O)c2ccccc23,Chlorthalidone
+2733,inactive,95-25-0,Clc1cc2NC(=O)Oc2cc1,Chlorzoxazone
+2741,inactive,4940-39-0,O=C(O)C1=CC(=O)c2ccccc2O1,Chromocarb
+2750,active,74772-77-3,CC1(CCCCC1)COc3ccc(CC2SC(=O)NC2=O)cc3,Ciglitizone
+2753,inactive,68550-75-4,CN(C1CCCCC1)C(=O)CCCOc2ccc3NC(=O)C=Cc3c2,Cilostamide
+2754,active,73963-72-1,O=C1CCc2cc(ccc2N1)OCCCCc4nnnn4C3CCCCC3,Cilostazol
+2755,inactive,54239-37-1,N#Cc1cc(ccc1N)C(O)CNC(C)C,Cimaterol
+2756,inactive,51481-61-9,N#C\N=C(/NC)NCCSCc1ncnc1C,Cimetidine
+2762,inactive,28657-80-9,O=C(O)C2=NN(CC)c1cc3OCOc3cc1C2=O,Cinoxacin
+2763,active,52214-84-3,ClC2(Cl)CC2c1ccc(OC(C)(C)C(=O)O)cc1,Ciprofibrate
+2765,inactive,59939-16-1,O(CC1=NCCN1)c2ccccc2C3CC3,Cirazoline
+2775,inactive,487-06-9,COc2cc(cc1OC(=O)C=Cc12)OC,"5,7-Dimethoxy-2H-chromen-2-one"
+2783,inactive,37148-27-9,Clc1cc(cc(Cl)c1N)C(O)CNC(C)(C)C,Clenbuterol
+2788,active,130-26-7,Oc1c(I)cc(Cl)c2cccnc12,Clioquinol
+2797,active,882-09-7,Clc1ccc(OC(C)(C)C(=O)O)cc1,Clofibric acid
+2799,active,37693-01-9,Clc2cc(Cl)ccc2Cc1cc(ccc1O)C(C)(C)CC(C)(C)C,Clofoctol
+2801,active,303-49-1,CN(C)CCCN2c3ccccc3CCc1ccc(Cl)cc12,Clomipramine
+2871,inactive,56-72-4,CCOP(=S)(OCC)Oc1ccc2c(c1)OC(=O)C(Cl)=C2C,Coumaphos
+2904,inactive,742-20-1,NS(=O)(=O)c3cc1c(NC(NS1(=O)=O)CC2CCCC2)cc3Cl,Cyclopenthiazide
+2910,inactive,2259-96-3,NS(=O)(=O)c4cc1c(NC(NS1(=O)=O)C3CC2C=CC3C2)cc4Cl,Cyclothiazide
+2913,inactive,129-03-3,CN1CC\C(CC1)=C2\c4ccccc4C=Cc3ccccc23,Cyproheptadine
+2950,inactive,117-10-2,Oc3cccc2C(=O)c1cccc(O)c1C(=O)c23,Danthron
+2955,inactive,80-08-0,Nc1ccc(cc1)S(=O)(=O)c2ccc(N)cc2,Dapsone
+3016,inactive,439-14-5,Clc1ccc2c(c1)C(=NCC(=O)N2C)c3ccccc3,Diazepam
+3019,inactive,364-98-7,Clc1ccc2N=C(C)NS(=O)(=O)c2c1,Diazoxide
+3031,inactive,1194-65-6,N#Cc1c(Cl)cccc1Cl,Dichlobenil
+3036,active,50-29-3,Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl,"p,p'-DDT"
+3037,active,97-23-4,Oc2ccc(Cl)cc2Cc1cc(Cl)ccc1O,Dichlorophen
+3038,inactive,120-97-8,Clc1c(cc(cc1Cl)S(N)(=O)=O)S(N)(=O)=O,Dichlorphenamide
+3042,inactive,77-19-0,CCN(CC)CCOC(=O)C1(CCCCC1)C2CCCCC2,Dicyclomine
+3055,inactive,972-02-1,OC(CCCN1CCCCC1)(c2ccccc2)c3ccccc3,Diphenidol
+3059,active,22494-42-4,OC(=O)c1cc(ccc1O)c2ccc(F)cc2F,Diflunisal
+3074,active,35898-87-4,COc1cc(cc(OC)c1OC)C(=O)OCCCN3CCCN(CCCOC(=O)c2cc(OC)c(OC)c(OC)c2)CC3,Dilazep
+3082,inactive,60-51-5,COP(=S)(OC)SCC(=O)NC,Dimethoate
+3100,inactive,58-73-1,CN(C)CCOC(c1ccccc1)c2ccccc2,Diphenhydramine
+3108,active,58-32-2,OCCN(CCO)c2nc1c(nc(nc1c(n2)N3CCCCC3)N(CCO)CCO)N4CCCCC4,Dipyridamole
+3114,inactive,3737-09-5,CC(C)N(CCC(c1ccccn1)(c2ccccc2)C(N)=O)C(C)C,Disopyramide
+3117,active,97-77-8,CCN(CC)C(=S)SSC(=S)N(CC)CC,Disulfiram
+3120,inactive,330-54-1,Clc1ccc(NC(=O)N(C)C)cc1Cl,Diuron
+3151,active,57808-66-9,Clc4cc5NC(=O)N(C3CCN(CCCN1c2ccccc2NC1=O)CC3)c5cc4,Domperidone
+3168,inactive,548-73-2,Fc1ccc(cc1)C(=O)CCCN2CC=C(CC2)N3c4ccccc4NC3=O,Droperidol
+3169,inactive,17692-31-8,OC(CN1CCN(CC1)c2ccccc2)CO,Dropropizine
+3182,inactive,479-18-5,OCC(O)Cn2cnc1c2C(=O)N(C)C(=O)N1C,Dyphylline
+3194,inactive,60940-34-3,O=C1c3ccccc3[Se]N1c2ccccc2,Ebselen
+3220,active,518-82-1,Cc3cc2C(=O)c1cc(O)cc(O)c1C(=O)c2c(O)c3,Emodin
+3229,inactive,74011-58-8,O=C(O)C2=CN(CC)c1nc(c(F)cc1C2=O)N3CCNCC3,Enoxacin
+3242,inactive,18694-40-1,Cc1cc(nc(n1)n2nc(C)cc2OC)OC,Epirizole
+3295,inactive,452-35-7,NS(=O)(=O)c1nc2ccc(cc2s1)OCC,Ethoxzolamide
+3308,inactive,41340-25-4,O=C(O)CC3(CC)OCCc2c3nc1c(cccc12)CC,Etodolac
+3324,inactive,104227-87-4,CC(=O)OCC(COC(C)=O)CCn2cnc1cnc(N)nc12,Famciclovir
+3325,inactive,76824-35-6,N/C(N)=N/c1nc(CSCCC(\N)=N/S(N)(=O)=O)cs1,Famotidine
+3326,active,22881-35-2,CC(Cc1ccccc1)N(C)CC3=C(C(=O)N(c2ccccc2)N3C)C(C)C,Famprofazone
+3333,active,72509-76-3,CC=1NC(C)=C(C(C=1C(=O)OCC)c2cccc(Cl)c2Cl)C(=O)OC,Felodipine
+3334,active,43210-67-9,O=C(OC)Nc1nc2cc(ccc2n1)Sc3ccccc3,Fenbendazole
+3335,active,36330-85-5,O=C(CCC(=O)O)c1ccc(cc1)c2ccccc2,Fenbufen
+3339,active,49562-28-9,O=C(c1ccc(Cl)cc1)c2ccc(OC(C)(C)C(=O)OC(C)C)cc2,Fenofibrate
+3341,active,67227-56-9,Oc1ccc(cc1)C3CNCCc2c3cc(O)c(O)c2Cl,Fenoldopam
+3346,inactive,55-38-9,Cc1cc(ccc1SC)OP(=S)(OC)OC,Fenthion
+3352,inactive,120068-37-3,FC(F)(F)S(=O)c1c(N)n(nc1C#N)c2c(Cl)cc(cc2Cl)C(F)(F)F,Fipronil
+3356,inactive,54143-55-4,FC(F)(F)COc2cc(C(=O)NCC1CCCCN1)c(OCC(F)(F)F)cc2,Flecainide
+3365,inactive,86386-73-4,OC(Cn1cncn1)(Cn2cncn2)c3ccc(F)cc3F,Fluconazole
+3371,active,530-78-9,FC(F)(F)c1cc(ccc1)Nc2ccccc2C(=O)O,Flufenamic acid
+3374,inactive,42835-25-6,O=C(O)C3=CN1c2c(cc(F)cc2CCC1C)C3=O,Flumequine
+3386,active,54910-89-3,FC(F)(F)c2ccc(OC(CCNC)c1ccccc1)cc2,Fluoxetine
+3394,active,5104-49-4,Fc2cc(ccc2c1ccccc1)C(C)C(=O)O,Flurbiprofen
+3396,active,1841-19-6,Fc1ccc(cc1)C(CCCN2CCC4(CC2)C(=O)NCN4c3ccccc3)c5ccc(F)cc5,Fluspirilene
+3397,active,13311-84-7,O=C(Nc1cc(c(cc1)[N+]([O-])=O)C(F)(F)F)C(C)C,Flutamide
+3440,inactive,54-31-9,NS(=O)(=O)c2cc(c(NCc1ccco1)cc2Cl)C(=O)O,Furosemide
+3442,inactive,536-69-6,OC(=O)c1ccc(CCCC)cn1,Fusaric acid
+3463,inactive,25812-30-0,O=C(O)C(C)(C)CCCOc1cc(C)ccc1C,Gemfibrozil
+3475,inactive,21187-98-4,Cc1ccc(cc1)S(=O)(=O)NC(=O)NN2CC3CCCC3C2,Gliclazide
+3476,inactive,93479-97-1,CC=3CN(C(=O)NCCc1ccc(cc1)S(=O)(=O)NC(=O)N[C@@H]2CC[C@@H](C)CC2)C(=O)C=3CC,Glimepiride
+3478,inactive,29094-61-9,Cc1cnc(cn1)C(=O)NCCc2ccc(cc2)S(=O)(=O)NC(=O)NC3CCCCC3,Glipizide
+3488,active,10238-21-8,O=C(NC1CCCCC1)NS(=O)(=O)c3ccc(CCNC(=O)c2cc(Cl)ccc2OC)cc3,Glybenclamide
+3503,active,303-45-7,CC(C)c4c3cc(C)c(c1c(C)cc2c(c1O)c(C=O)c(O)c(O)c2C(C)C)c(O)c3c(C=O)c(O)c4O,Gossypol
+3516,inactive,93-14-1,OCC(O)COc1ccccc1OC,Guaifenesin
+3559,active,52-86-8,Fc1ccc(cc1)C(=O)CCCN2CCC(O)(CC2)c3ccc(Cl)cc3,Haloperidol
+3627,active,848-53-3,Clc1ccc(cc1)C(c2ccccc2)N3CCCN(C)CC3,Homochlorcyclizine
+3634,active,3105-97-3,CCN(CC)CCNc1ccc(CO)c2Sc3ccccc3C(=O)c12,Hycanthone
+3639,inactive,58-93-5,NS(=O)(=O)c2cc1c(NCNS1(=O)=O)cc2Cl,Hydrochlorothiazide
+3647,inactive,135-09-1,FC(F)(F)c1cc2NCNS(=O)(=O)c2cc1S(N)(=O)=O,Hydroflumethiazide
+3658,inactive,68-88-2,Clc1ccc(cc1)C(c2ccccc2)N3CCN(CC3)CCOCCO,Hydroxyzine
+3671,active,50847-11-5,CC(C)C(=O)c1c2ccccn2nc1C(C)C,Ibudilast
+3672,inactive,15687-27-1,CC(C(=O)O)c1ccc(CC(C)C)cc1,Ibuprofen
+3676,inactive,137-58-6,O=C(Nc1c(C)cccc1C)CN(CC)CC,Lidocaine
+3689,inactive,23210-56-2,OC(C(C)N1CCC(CC1)Cc2ccccc2)c3ccc(O)cc3,Ifenprodil
+3696,active,50-49-7,CN(C)CCCN2c3ccccc3CCc1ccccc12,Imipramine
+3702,inactive,26807-65-8,NS(=O)(=O)c1cc(ccc1Cl)C(=O)NN2c3ccccc3CC2C,Indapamide
+3712,active,700-06-1,OCc2cnc1ccccc12,Indole-3-carbinol
+3715,active,53-86-1,Clc1ccc(cc1)C(=O)n3c2ccc(cc2c(CC(=O)O)c3C)OC,Indomethacin
+3718,inactive,31842-01-0,O=C(O)C(C)c1ccc(cc1)N2Cc3ccccc3C2=O,Indoprofen
+3728,active,83-73-8,Oc1c(I)cc(I)c2cccnc12,Iodoquinol
+3735,active,96-83-3,Ic1cc(I)c(N)c(I)c1CC(CC)C(=O)O,Iopanoic acid
+3739,inactive,606-17-7,O=C(Nc1c(I)c(c(I)cc1I)C(=O)O)CCCCC(=O)Nc2c(I)c(C(=O)O)c(I)cc2I,Iodipamide
+3742,inactive,59017-64-0,Ic1c(c(I)c(c(I)c1N(C)C(C)=O)C(=O)NC)C(=O)NCC(=O)Nc2c(I)c(C(=O)NCCO)c(I)c(C(=O)O)c2I,Ioxaglic acid
+3759,inactive,59-63-2,Cc1cc(no1)C(=O)NNCc2ccccc2,Isocarboxazid
+3760,active,27523-40-6,Clc3ccc(C(OCc1c(Cl)cccc1Cl)Cn2ccnc2)c(Cl)c3,Isoconazole
+3779,inactive,7683-59-2,Oc1ccc(cc1O)C(O)CNC(C)C,Isoproterenol
+3784,inactive,75695-93-1,O=C(OC)C3=C(C)NC(C)=C(C(=O)OC(C)C)C3c1cccc2nonc12,Isradipine
+3822,inactive,74050-98-9,Fc1ccc(cc1)C(=O)C4CCN(CCN2C(=O)c3ccccc3NC2=O)CC4,Ketanserin
+3825,inactive,22071-15-4,CC(C(=O)O)c1cccc(c1)C(=O)c2ccccc2,Ketoprofen
+3827,inactive,34580-13-7,CN1CC/C(CC1)=C3\c4ccccc4CC(=O)c2sccc23,Ketotifen
+3828,inactive,82-02-0,COc3c1c(OC(C)=CC1=O)c(OC)c2occc23,Khellin
+3830,inactive,525-79-1,N1C=NC3=NC=NC3=C1NCc2ccco2,Kinetin
+3878,inactive,84057-84-1,Clc1cccc(c1Cl)c2nnc(N)nc2N,Lamotrigine
+3883,inactive,103577-45-3,FC(F)(F)COc3ccnc(CS(=O)c1nc2ccccc2n1)c3C,Lansoprazole
+3899,active,75706-12-6,Cc2oncc2C(=O)Nc1ccc(cc1)C(F)(F)F,Leflunomide
+3902,inactive,112809-51-5,N#Cc1ccc(cc1)C(c2ccc(C#N)cc2)n3cncn3,Letrozole
+3926,active,3416-26-0,Cc4cccc(C)c4NC(=O)CN3CCN(CCCC(c1ccc(F)cc1)c2ccc(F)cc2)CC3,Lidoflazine
+3932,inactive,105431-72-9,O=C4N(c1ccccc1C4(Cc2ccncc2)Cc3ccncc3)c5ccccc5,Linopirdine
+3955,active,53179-11-6,CN(C)C(=O)C(CCN1CCC(O)(CC1)c2ccc(Cl)cc2)(c3ccccc3)c4ccccc4,Loperamide
+3957,active,79794-75-5,Clc3cc4CCc1cccnc1C(=C2/CCN(CC2)C(=O)OCC)\c4cc3,Loratadine
+3969,active,88107-10-2,CC(=O)c2ccc(OCCCCc1nnnn1)c(CCC)c2O,Tomelukast
+4011,active,10262-69-8,CNCCCC24CCC(c1ccccc12)c3ccccc34,Maprotiline
+4021,inactive,89-25-8,O=C2CC(C)=NN2c1ccccc1,1-Phenyl-3-methyl-5-pyrazolone
+4030,active,31431-39-7,O=C(OC)Nc1nc2cc(ccc2n1)C(=O)c3ccccc3,Mebendazole
+4044,active,61-68-7,O=C(O)c2ccccc2Nc1cccc(C)c1C,Mefenamic acid
+4078,inactive,5588-33-0,CS(=O)c2cc3N(CCC1CCCCN1C)c4ccccc4Sc3cc2,Mesoridazine
+4100,inactive,554-57-4,CN1N=C(S\C1=N/C(C)=O)S(=O)(N)=O,Methazolamide
+4106,active,20229-30-5,CN1CCN(CC1)C2Cc4ccccc4Sc3ccc(SC)cc23,Metitepine
+4107,inactive,532-03-6,NC(=O)OCC(O)COc1ccccc1OC,Methocarbamol
+4114,active,298-81-7,COc1c3occc3cc2C=CC(=O)Oc12,8-Methoxypsoralen
+4122,active,31430-18-9,O=C(c1cc2nc(NC(=O)OC)nc2cc1)c3cccs3,Nocodazole
+4165,inactive,1084-65-7,NS(=O)(=O)c2cc1c(CCCS1(=O)=O)cc2C,Meticrane
+4168,inactive,364-62-5,Nc1cc(OC)c(cc1Cl)C(=O)NCCN(CC)CC,Metoclopramide
+4169,active,51218-45-2,ClCC(=O)N(C(C)COC)c1c(C)cccc1CC,Metolachlor
+4170,inactive,17560-51-9,NS(=O)(=O)c1cc2C(=O)N(C(C)Nc2cc1Cl)c3ccccc3C,Metolazone
+4171,inactive,51384-51-1,CC(C)NCC(O)COc1ccc(cc1)CCOC,Metoprolol
+4173,inactive,443-48-1,Cc1ncc([N+]([O-])=O)n1CCO,Metronidazole
+4174,inactive,54-36-4,CC(C)(c1cccnc1)C(=O)c2cccnc2,Metyrapone
+4189,inactive,22916-47-8,Clc3ccc(C(OCc1ccc(Cl)cc1Cl)Cn2ccnc2)c(Cl)c3,Miconazole
+4197,inactive,78415-72-2,N#CC1=CC(=C(C)NC1=O)c2ccncc2,Milrinone
+4201,inactive,38304-91-5,Nc1cc(nc(N)[n+]1[O-])N2CCCCC2,Minoxidil
+4205,inactive,61337-67-5,CN1CC2N(CC1)c4ncccc4Cc3ccccc23,Mirtazapine
+4236,inactive,68693-11-8,O=S(CC(N)=O)C(c1ccccc1)c2ccccc2,Modafinil
+4409,inactive,42924-53-8,CC(=O)CCc1ccc2cc(ccc2c1)OC,Nabumetone
+4418,inactive,57149-07-2,OC(CN1CCN(CC1)c2ccccc2OC)COc4cccc3ccccc34,Naftopidil
+4472,inactive,51-12-7,O=C(NNCCC(=O)NCc1ccccc1)c2ccncc2,Nialamide
+4474,active,55985-32-5,CC=2NC(C)=C(C(C=2C(=O)OCCN(C)Cc1ccccc1)c3cccc(c3)[N+]([O-])=O)C(=O)OC,Nicardipine
+4477,active,50-65-7,Clc2cc(ccc2NC(=O)c1cc(Cl)ccc1O)[N+]([O-])=O,Niclosamide
+4487,inactive,2139-47-1,O=C3C(NC(=O)c1cccnc1)=C(C)N(C)N3c2ccccc2,Nifenazone
+4493,inactive,63612-50-0,FC(F)(F)c1cc(ccc1[N+]([O-])=O)N2C(=O)C(C)(C)NC2=O,Nilutamide
+4495,inactive,51803-78-2,[O-][N+](=O)c2cc(Oc1ccccc1)c(cc2)NS(C)(=O)=O,Nimesulide
+4497,inactive,66085-59-4,CC=1NC(C)=C(C(C=1C(=O)OC(C)C)c2cccc(c2)[N+]([O-])=O)C(=O)OCCOC,Nimodipine
+4500,inactive,53179-07-0,COc2ccccc2OC(CCNC)c1ccccc1,Nisoxetine
+4507,active,39562-70-4,CC=1NC(C)=C(C(C=1C(=O)OCC)c2cccc(c2)[N+]([O-])=O)C(=O)OC,Nitrendipine
+4528,inactive,24526-64-5,Nc3cccc1c3CN(C)CC1c2ccccc2,Nomifensine
+4539,inactive,70458-96-7,O=C(O)C2=CN(CC)c1cc(c(F)cc1C2=O)N3CCNCC3,Norfloxacin
+4567,inactive,447-41-6,OC(c1ccc(O)cc1)C(C)NC(C)CCc2ccccc2,Nylidrin
+4583,inactive,82419-36-1,CN1CCN(CC1)c4c(F)cc2c3N(C=C(C2=O)C(=O)O)C(C)COc34,Ofloxacin
+4594,active,73590-58-6,Cc3c(OC)c(C)cnc3CS(=O)c1nc2cc(ccc2n1)OC,Omeprazole
+4595,inactive,99614-02-5,O=C1C(CCc3c1c2ccccc2n3C)Cn4ccnc4C,Ondansetron
+4614,active,21256-18-8,OC(=O)CCc1nc(c(o1)c2ccccc2)c3ccccc3,Oxaprozin
+4621,inactive,126-27-2,CC(C)(Cc1ccccc1)N(C)C(=O)CN(CCO)CC(=O)N(C)C(C)(C)Cc2ccccc2,Oxethazaine
+4628,inactive,14698-29-4,O=C(O)C2=CN(CC)c1cc3OCOc3cc1C2=O,Oxolinic acid
+4632,active,131-57-7,O=C(c1ccc(cc1O)OC)c2ccccc2,2-Hydroxy-4-methoxybenzophenone
+4636,inactive,1491-59-4,CC(C)(C)c2cc(C)c(CC1=NCCN1)c(C)c2O,Oxymetazoline
+4652,inactive,7424-00-2,Clc1ccc(CC(N)C(=O)O)cc1,Fenclonine
+4671,inactive,544-31-0,O=C(CCCCCCCCCCCCCCC)NCCO,Palmitoylethanolamide
+4679,inactive,102625-70-7,COc3c(OC)ccnc3CS(=O)c1nc2cc(ccc2n1)OC(F)F,Pantoprazole
+4687,inactive,611-59-6,O=C1c2n(C)cnc2NC(=O)N1C,"1,7-Dimethylxanthine"
+4737,inactive,76-74-4,O=C1NC(O)=NC(=O)C1(CC)C(C)CCC,Pentobarbital
+4740,inactive,6493-05-6,CC(=O)CCCCN2C(=O)c1n(C)cnc1N(C)C2=O,Pentoxifylline
+4747,inactive,2622-26-6,OC1CCN(CC1)CCCN2c4ccccc4Sc3ccc(C#N)cc23,Periciazine
+4748,active,58-39-9,OCCN1CCN(CC1)CCCN2c4ccccc4Sc3ccc(Cl)cc23,Perphenazine
+4753,inactive,63-98-9,O=C(Cc1ccccc1)NC(N)=O,Phenacemide
+4754,inactive,62-44-2,CCOc1ccc(cc1)NC(C)=O,Phenacetin
+4767,inactive,26002-80-2,C/C(C)=C/C3C(C(=O)OCc2cccc(Oc1ccccc1)c2)C3(C)C,Phenothrin
+4781,inactive,50-33-9,O=C3C(CCCC)C(=O)N(c1ccccc1)N3c2ccccc2,Phenylbutazone
+4793,active,2310-17-0,CCOP(=S)(OCC)SCN1c2ccc(Cl)cc2OC1=O,Phosalone
+4806,inactive,85-73-4,O=S(=O)(Nc1nccs1)c3ccc(NC(=O)c2ccccc2C(=O)O)cc3,Phthalylsulfathiazole
+4810,inactive,75438-57-2,COc2nc(C)nc(Cl)c2NC1=NCCN1,Moxonidine
+4828,inactive,13523-86-9,CC(C)NCC(O)COc2cccc1nccc12,Pindolol
+4831,inactive,51940-44-4,O=C(O)C2=CN(CC)c1nc(ncc1C2=O)N3CCNCC3,Pipemidic acid
+4847,inactive,75444-65-4,Fc1ccc(cc1)C(=O)C4CCN(CCC3=C(C)N=C2C=CC=CN2C3=O)CC4,Pirenperone
+4848,inactive,28797-61-7,O=C(CN1CCN(C)CC1)N4c2ccccc2C(=O)Nc3cccnc34,Pirenzepine
+4849,active,55837-27-9,O=C(O)c2cc(c(Oc1ccccc1)c(c2)N3CCCC3)S(N)(=O)=O,Piretanide
+4850,inactive,3605-01-4,c1cc(cc2OCOc12)CN3CCN(CC3)c4ncccn4,Piribedil
+4855,inactive,19562-30-2,O=C(O)C2=CN(CC)c1nc(ncc1C2=O)N3CCCC3,Piromidic acid
+4883,inactive,6673-35-4,CC(C)NCC(O)COc1ccc(cc1)NC(C)=O,Practolol
+4891,inactive,55268-74-1,O=C2CN(CC1c3ccccc3CCN12)C(=O)C4CCCCC4,Praziquantel
+4893,active,19216-56-9,O=C(N1CCN(CC1)c3nc2cc(OC)c(OC)cc2c(N)n3)c4ccco4,Prazosin
+4904,inactive,511-45-5,OC(CCN1CCCCC1)(c2ccccc2)c3ccccc3,Pridinol
+4909,inactive,125-33-7,CCC1(C(=O)NCNC1=O)c2ccccc2,Primidone
+4911,active,57-66-9,O=S(=O)(N(CCC)CCC)c1ccc(cc1)C(=O)O,Probenecid
+4913,inactive,51-06-9,O=C(NCCN(CC)CC)c1ccc(N)cc1,Procainamide
+4922,inactive,6620-60-6,O=C(NC(CCC(=O)O)C(=O)N(CCC)CCC)c1ccccc1,Proglumide
+4929,inactive,7287-19-6,CSc1nc(NC(C)C)nc(NC(C)C)n1,Prometryn
+4930,inactive,54-80-8,CC(C)NCC(O)c1ccc2ccccc2c1,Pronethalol
+4932,active,54063-53-5,CCCNCC(O)COc2ccccc2C(=O)CCc1ccccc1,Propafenone
+4933,inactive,709-98-8,Clc1ccc(NC(=O)CC)cc1Cl,Propanil
+4937,inactive,139-40-2,Clc1nc(NC(C)C)nc(NC(C)C)n1,Propazine
+4938,inactive,55242-55-2,CC(=O)CCCCN2C(=O)c1n(cnc1N(C)C2=O)CCC,Propentofylline
+4943,inactive,2078-54-8,CC(C)c1cccc(C(C)C)c1O,Propofol
+4977,inactive,603-00-9,CC(O)Cn2cnc1c2C(=O)N(C)C(=O)N1C,Proxyphylline
+4992,inactive,91-84-9,COc1ccc(cc1)CN(CCN(C)C)c2ccccn2,Pyrilamine
+4993,active,58-14-0,CCc1nc(N)nc(N)c1c2ccc(Cl)cc2,Pyrimethamine
+4994,inactive,77-04-3,CCC1(CC)C(=O)C=CNC1=O,Pyrithyldione
+5035,active,84449-90-1,Oc1ccc(cc1)c3sc2cc(O)ccc2c3C(=O)c5ccc(OCCN4CCCCC4)cc5,Raloxifene
+5037,inactive,3615-24-5,CC(C)NC=2C(=O)N(c1ccccc1)N(C)C=2C,Ramifenazone
+5042,inactive,90098-04-7,Clc1ccc(cc1)C(=O)NC(CC3=CC(=O)Nc2ccccc23)C(=O)O,Rebamipide
+5053,active,10453-86-8,O=C(OCc2cc(Cc1ccccc1)oc2)C3C(/C=C(\C)C)C3(C)C,Resmethrin
+5070,inactive,1744-22-5,FC(F)(F)Oc1ccc2nc(N)sc2c1,Riluzole
+5073,inactive,106266-06-2,CC=5N=C1CCCCN1C(=O)C=5CCN2CCC(CC2)c4noc3cc(F)ccc34,Risperidone
+5074,active,87051-43-2,Fc1ccc(cc1)/C(c2ccc(F)cc2)=C3/CCN(CC3)CCC4=C(C)N=C5SC=CN5C4=O,Ritanserin
+5090,inactive,162011-90-7,CS(=O)(=O)c1ccc(cc1)C=2COC(=O)C=2c3ccccc3,Rofecoxib
+5092,inactive,61413-54-5,COc2ccc(cc2OC1CCCC1)C3CC(=O)NC3,Rolipram
+5094,inactive,7681-76-7,Cn1c(cnc1COC(N)=O)[N+]([O-])=O,Ronidazole
+5095,inactive,91374-21-9,CCCN(CCC)CCc1cccc2NC(=O)Cc12,Ropinirole
+5146,inactive,90-01-7,OCc1ccccc1O,Salicyl alcohol
+5152,inactive,89365-50-4,OCc1cc(ccc1O)C(O)CNCCCCCCOCCCCc2ccccc2,Salmeterol
+5154,active,2447-54-3,C[n+]2cc1c6OCOc6ccc1c3ccc4cc5OCOc5cc4c23,Sanguinarine
+5215,inactive,68-35-9,O=S(=O)(Nc1ncccn1)c2ccc(N)cc2,Sulfadiazine
+5216,active,122-34-9,Clc1nc(NCC)nc(NCC)n1,Simazine
+5253,inactive,3930-20-9,O=S(C)(=O)Nc1ccc(cc1)C(O)CNC(C)C,Sotalol
+5265,active,749-02-0,Fc1ccc(cc1)C(=O)CCCN2CCC4(CC2)C(=O)NCN4c3ccccc3,Spiperone
+5268,inactive,1054-88-2,O=C5NCN(c1ccccc1)C25CCN(CC2)CC3COc4ccccc4O3,Spiroxatrine
+5278,inactive,72702-95-5,O=C(O)CC3=NN(Cc1ccc(Br)cc1F)C(=O)c2ccccc23,Ponalrestat
+5315,inactive,116-43-8,O=S(=O)(Nc1nccs1)c2ccc(NC(=O)CCC(=O)O)cc2,Succinylsulfathiazole
+5319,inactive,127-71-9,Nc1ccc(cc1)S(=O)(=O)NC(=O)c2ccccc2,Sulfabenzamide
+5320,inactive,144-80-9,Nc1ccc(cc1)S(=O)(=O)NC(C)=O,Sulfacetamide
+5323,inactive,122-11-2,COc2nc(NS(=O)(=O)c1ccc(N)cc1)cc(OC)n2,Sulfadimethoxine
+5325,inactive,127-79-7,O=S(=O)(Nc1nc(C)ccn1)c2ccc(N)cc2,Sulfamerazine
+5326,inactive,651-06-9,O=S(=O)(Nc1ncc(cn1)OC)c2ccc(N)cc2,Sulfameter
+5327,inactive,57-68-1,O=S(=O)(Nc1nc(C)cc(C)n1)c2ccc(N)cc2,Sulfamethazine
+5328,inactive,144-82-1,Cc2nnc(NS(=O)(=O)c1ccc(N)cc1)s2,Sulfamethizole
+5329,inactive,723-46-6,Cc2cc(NS(=O)(=O)c1ccc(N)cc1)no2,Sulfamethoxazole
+5330,inactive,80-35-3,O=S(=O)(Nc1ccc(OC)nn1)c2ccc(N)cc2,Sulfamethoxypyridazine
+5332,inactive,1220-83-3,O=S(=O)(Nc1cc(OC)ncn1)c2ccc(N)cc2,Sulfamonomethoxine
+5334,inactive,122-16-7,O=S(=O)(Nc1ccc(cc1)[N+]([O-])=O)c2ccc(NC(C)=O)cc2,Sulfanitran
+5335,inactive,526-08-9,Nc1ccc(cc1)S(=O)(=O)Nc3ccnn3c2ccccc2,Sulfaphenazole
+5336,inactive,144-83-2,O=S(=O)(Nc1ccccn1)c2ccc(N)cc2,Sulfapyridine
+5338,inactive,59-40-5,Nc1ccc(cc1)S(=O)(=O)Nc2cnc3ccccc3n2,Sulfaquinoxaline
+5340,active,72-14-0,O=S(=O)(Nc1nccs1)c2ccc(N)cc2,Sulfathiazole
+5342,inactive,57-96-5,O=C4C(CCS(=O)c1ccccc1)C(=O)N(c2ccccc2)N4c3ccccc3,Sulfinpyrazone
+5344,active,127-69-5,Cc2c(NS(=O)(=O)c1ccc(N)cc1)onc2C,Sulfisoxazole
+5353,inactive,73384-60-8,CS(=O)c3ccc(c1nc2ncccc2n1)c(OC)c3,Sulmazole
+5355,inactive,15676-16-1,CCN2CCCC2CNC(=O)c1cc(ccc1OC)S(N)(=O)=O,(RS)-(+/-)-sulpiride
+5359,inactive,40828-46-4,O=C(c1ccc(cc1)C(C)C(=O)O)c2cccs2,Suprofen
+5362,active,27470-51-5,O=C(O)CCC(=O)OCC2(CCCC)C(=O)N(c1ccccc1)N(C2=O)c3ccccc3,Suxibuzone
+5374,inactive,101626-70-4,C=CCN1CCc2sc(N)nc2CC1,Talipexole
+5379,inactive,112811-59-3,CC1CN(CCN1)c2c(F)cc3c(c2OC)N(C=C(C3=O)C(=O)O)C4CC4,Gatifloxacin
+5387,inactive,80880-90-6,CN1CCN(CC1)CC(=O)N3c2c(csc2C)C(=O)Nc4ccccc34,Telenzepine
+5405,active,50679-08-8,CC(C)(C)c1ccc(cc1)C(O)CCCN2CCC(CC2)C(O)(c3ccccc3)c4ccccc4,Terfenadine
+5426,inactive,50-35-1,O=C1NC(=O)CCC1N3C(=O)c2ccccc2C3=O,Thalidomide
+5430,active,148-79-8,n1c3ccccc3nc1c2cscn2,Thiabendazole
+5453,inactive,52-24-4,S=P(N1CC1)(N2CC2)N3CC3,Thiotepa
+5468,active,33005-95-7,O=C(c1ccc(s1)C(C)C(=O)O)c2ccccc2,Tiaprofenic acid
+5472,active,55142-85-3,Clc3ccccc3CN1CCc2sccc2C1,Ticlopidine
+5475,active,27591-97-5,CCN(CC)CCOc2ccc3c1ccc(cc1C(=O)c3c2)OCCN(CC)CC,Tilorone
+5479,active,19387-91-8,O=S(=O)(CCn1c(cnc1C)[N+]([O-])=O)CC,Tinidazole
+5503,inactive,1156-19-0,Cc1ccc(cc1)S(=O)(=O)NC(=O)NN2CCCCCC2,Tolazamide
+5505,inactive,64-77-7,Cc1ccc(cc1)S(=O)(=O)NC(=O)NCCCC,Tolbutamide
+5510,active,2398-96-1,Cc1cc(ccc1)N(C)C(=S)Oc2ccc3ccccc3c2,Tolnaftate
+5531,inactive,15421-84-8,CCN(CC)c1cc(C)nc2ncnn12,Trapidil
+5543,inactive,2303-17-5,Cl/C(Cl)=C(\Cl)CSC(=O)N(C(C)C)C(C)C,Tri-allate
+5546,active,396-01-0,Nc2nc(N)nc1nc(N)c(nc12)c3ccccc3,Triamterene
+5560,inactive,133-67-5,NS(=O)(=O)c2cc1c(NC(NS1(=O)=O)C(Cl)Cl)cc2Cl,Trichlormethiazide
+5578,active,738-70-5,Nc2nc(N)ncc2Cc1cc(OC)c(OC)c(OC)c1,Trimethoprim
+5585,inactive,3902-71-4,Cc1oc2c(C)c3OC(=O)C=C(C)c3cc2c1,Trioxsalen
+5593,inactive,1508-75-4,OCC(c1ccccc1)C(=O)N(CC)Cc2ccncc2,Tropicamide
+5610,inactive,51-67-2,Oc1ccc(CCN)cc1,Tyramine
+5639,inactive,34661-75-1,COc3ccccc3N2CCN(CCCNC1=CC(=O)N(C)C(=O)N1C)CC2,Urapidil
+5656,inactive,93413-69-5,OC1(CCCCC1)C(CN(C)C)c2ccc(OC)cc2,Venlafaxine
+5694,active,50892-23-4,Cc2cccc(Nc1cc(Cl)nc(SCC(=O)O)n1)c2C,Pirinixic acid
+5707,inactive,7361-61-7,Cc2cccc(C)c2NC1=NCCCS1,Xylazine
+5723,inactive,101975-10-4,FC(F)Oc1ccc(cc1OC)C=2C=CC(=O)NN=2,Zardaverine
+5732,active,82626-48-0,CN(C)C(=O)Cc1c(nc2ccc(C)cn12)c3ccc(C)cc3,Zolpidem
+5734,inactive,68291-97-4,NS(=O)(=O)Cc2noc1ccccc12,Zonisamide
+5743,active,50-02-2,OCC(=O)[C@@]4(O)[C@H](C)C[C@@H]3[C@]4(C)C[C@H](O)[C@@]2(F)[C@H]3CCC1=CC(=O)C=C[C@@]12C,Dexamethasone
+5753,active,50-22-6,OCC(=O)[C@H]4CC[C@@H]2[C@]4(C)C[C@H](O)[C@@H]1[C@@]3(C)CCC(=O)C=C3CC[C@H]12,Corticosterone
+5754,active,50-23-7,OCC(=O)[C@@]4(O)CC[C@@H]2[C@]4(C)C[C@H](O)[C@@H]1[C@@]3(C)CCC(=O)C=C3CC[C@H]12,Hydrocortisone
+5755,active,50-24-8,OCC(=O)[C@@]4(O)CC[C@@H]3[C@]4(C)C[C@H](O)[C@H]2[C@H]3CCC1=CC(=O)C=C[C@@]12C,Prednisolone
+5756,active,50-27-1,Oc3cc4CC[C@@H]1[C@H](CC[C@]2(C)[C@@H](O)[C@H](O)C[C@@H]12)c4cc3,Estriol
+5757,active,50-28-2,Oc3cc4CC[C@@H]1[C@H](CC[C@]2(C)[C@@H](O)CC[C@@H]12)c4cc3,17beta-Estradiol
+5775,inactive,50-60-2,Cc1ccc(cc1)N(CC2=NCCN2)c3cc(O)ccc3,Phentolamine
+5803,active,51-24-1,O=C(O)Cc2cc(I)c(Oc1cc(I)c(O)cc1)c(I)c2,Tiratricol
+5819,inactive,51-48-9,O=C(O)[C@@H](N)Cc2cc(I)c(Oc1cc(I)c(O)c(I)c1)c(I)c2,Levothyroxine
+5833,active,52-01-7,CC(=O)S[C@@H]4CC1=CC(=O)CC[C@]1(C)[C@H]5CC[C@@]3(C)[C@@H](CC[C@]23CCC(=O)O2)[C@H]45,Spironolactone
+5865,active,53-03-2,OCC(=O)[C@@]3(O)CC[C@H]2[C@@H]4CCC1=CC(=O)C=C[C@]1(C)[C@H]4C(=O)C[C@@]23C,Prednisone
+5870,active,53-16-7,Oc3cc4CC[C@@H]1[C@H](CC[C@]2(C)C(=O)CC[C@@H]12)c4cc3,Estrone
+5905,inactive,54-42-2,IC1=CN(C(=O)NC1=O)[C@H]2C[C@H](O)[C@@H](CO)O2,Idoxuridine
+5910,inactive,92-13-7,Cn2cncc2C[C@H]1COC(=O)[C@H]1CC,Pilocarpine
+5917,inactive,54-95-5,C1CCCc2nnnn2C1,Pentylenetetrazol
+5920,active,6893-02-3,O=C(O)[C@@H](N)Cc2cc(I)c(Oc1cc(I)c(O)cc1)c(I)c2,"3,5,3'-Triiodothyronine"
+5952,active,56-47-3,CC(=O)OCC(=O)[C@H]2CC[C@H]3[C@@H]4CCC1=CC(=O)CC[C@]1(C)[C@H]4CC[C@]23C,Deoxycorticosterone acetate
+5994,active,57-83-0,CC(=O)[C@H]2CC[C@H]3[C@@H]4CCC1=CC(=O)CC[C@]1(C)[C@H]4CC[C@]23C,Progesterone
+5995,active,57-85-2,CCC(=O)O[C@H]2CC[C@H]3[C@@H]4CCC1=CC(=O)CC[C@]1(C)[C@H]4CC[C@]23C,Testosterone propionate
+6005,inactive,58-00-4,Oc3ccc2C[C@@H]1c4c(CCN1C)cccc4c2c3O,Apomorphine
+6009,active,58-15-1,CN(C)C=2C(=O)N(c1ccccc1)N(C)C=2C,4-Dimethylaminoantipyrine
+6024,active,153-61-7,O=C(O)C=2N3C(=O)[C@@H](NC(=O)Cc1cccs1)[C@H]3SCC=2COC(C)=O,Cephalothin
+6093,inactive,61-57-4,[O-][N+](=O)c1cnc(s1)N2CCNC2=O,Niridazole
+6103,inactive,61-80-3,Clc1cc2nc(N)oc2cc1,Zoxazolamine
+6166,active,64-85-7,OCC(=O)[C@H]2CC[C@H]3[C@@H]4CCC1=CC(=O)CC[C@]1(C)[C@H]4CC[C@]23C,21-Hydroxyprogesterone
+6167,active,64-86-8,CC(=O)N[C@H]2CCc3cc(OC)c(OC)c(OC)c3C1=CC=C(OC)C(=O)C=C12,Colchicine
+6197,inactive,66-81-9,O=C2CC(C[C@@H](O)[C@@H]1C[C@@H](C)C[C@H](C)C1=O)CC(=O)N2,Cycloheximide
+6230,active,68-22-4,O=C4CC[C@H]3C(CC[C@@H]2[C@@H]3CC[C@@]1(C)[C@H]2CC[C@@]1(O)C#C)=C4,Norethindrone
+6231,active,68-23-5,O=C1CCC4=C(C1)CC[C@@H]3[C@@H]4CC[C@@]2(C)[C@H]3CC[C@@]2(O)C#C,Norethynodrel
+6291,active,72-33-3,COc3cc4CC[C@@H]2[C@H](CC[C@@]1(C)[C@H]2CC[C@@]1(O)C#C)c4cc3,Mestranol
+6293,active,72-48-0,O=C3c1ccccc1C(=O)c2c3ccc(O)c2O,Alizarin
+6307,inactive,73-49-4,NS(=O)(=O)c1cc2C(=O)NC(Nc2cc1Cl)CC,Quinethazone
+6466,inactive,77-06-5,O=C(O)[C@H]3[C@@H]5[C@]1(C)C(=O)O[C@]5(C=C[C@@H]1O)[C@@H]4CC[C@]2(O)C[C@]34CC2=C,Gibberellic acid
+6634,inactive,80-32-0,O=S(=O)(Nc1ccc(Cl)nn1)c2ccc(N)cc2,Sulfachloropyridazine
+6674,inactive,81-23-2,O=C(O)CC[C@@H](C)[C@H]4CC[C@@H]3[C@]4(C)C(=O)C[C@H]2[C@H]3C(=O)C[C@@H]1CC(=O)CC[C@@]12C,Dehydrocholic acid
+6738,inactive,83-40-9,OC(=O)c1cccc(C)c1O,2-Hydroxy-3-methylbenzoic acid
+6741,active,83-43-2,OCC(=O)[C@@]4(O)CC[C@@H]3[C@]4(C)C[C@H](O)[C@H]2[C@H]3C[C@H](C)C1=CC(=O)C=C[C@@]12C,Methylprednisolone
+6758,active,83-79-4,C=C(C)[C@@H]2Oc3ccc1C(=O)[C@H]4c5cc(OC)c(OC)cc5OC[C@H]4Oc1c3C2,Rotenone
+6769,active,84-36-6,O=C(OCC)Oc1c(OC)cc(cc1OC)C(=O)O[C@@H]3C[C@@H]4CN5CCc2c6ccc(OC)cc6nc2[C@H]5C[C@@H]4[C@@H]([C@H]3OC)C(=O)OC,Syrosingopine
+6780,inactive,84-65-1,O=C2c1ccccc1C(=O)c3ccccc23,Anthraquinone
+6839,inactive,86-34-0,O=C1C(CC(=O)N1C)c2ccccc2,Phensuximide
+7181,inactive,94-19-9,O=S(=O)(Nc1nnc(CC)s1)c2ccc(N)cc2,Sulfaethidole
+7184,active,94-26-8,Oc1ccc(cc1)C(=O)OCCCC,Butylparaben
+7333,inactive,97-39-2,Cc2ccccc2NC(=N)Nc1ccccc1C,"1,3-Bis(2-methylphenyl)guanidine"
+7504,inactive,100-46-9,NCc1ccccc1,Benzylamine
+8113,active,111-42-2,OCCNCCO,Diethanolamine
+8226,inactive,113-42-8,CC[C@@H](CO)NC(=O)[C@@H]2C=C1c3cccc4ncc(C[C@H]1N(C)C2)c34,Methergine
+8362,inactive,118-56-9,O=C(OC1CC(C)CC(C)(C)C1)c2ccccc2O,"3,3,5-Trimethylcyclohexyl salicylate"
+8433,inactive,120-46-7,O=C(CC(=O)c1ccccc1)c2ccccc2,"1,3-Diphenyl-1,3-propanedione"
+8515,inactive,129-56-6,O=C4c1cccc2nnc(c12)c3ccccc34,SP600125
+8569,inactive,131-53-3,O=C(c1ccc(cc1O)OC)c2ccccc2O,"2,2'-Dihydroxy-4-methoxybenzophenone"
+8588,active,132-32-1,Nc2cc3c1ccccc1n(CC)c3cc2,3-Amino-9-ethylcarbazole
+8593,active,132-60-5,O=C(O)c1cc(nc2ccccc12)c3ccccc3,Cinchophen
+8609,active,133-11-9,Oc2cc(N)ccc2C(=O)Oc1ccccc1,Phenyl 4-aminosalicylate
+8708,inactive,95-27-2,CCN(CC)CCOc1ccc2nc(sc2c1)N(C)C,Diamthazole
+8969,inactive,146-48-5,O=C(OC)[C@H]2[C@@H](O)CC[C@H]3CN4CCc1c5ccccc5nc1[C@@H]4C[C@H]23,Yohimbine
+9051,active,152-62-5,CC(=O)[C@H]2CC[C@H]3[C@@H]4C=CC1=CC(=O)CC[C@@]1(C)[C@@H]4CC[C@]23C,Dydrogesterone
+9324,active,302-22-7,CC(=O)[C@@]3(OC(C)=O)CC[C@H]2[C@@H]4C=C(Cl)C1=CC(=O)CC[C@]1(C)[C@H]4CC[C@@]23C,Chlormadinone acetate
+9363,inactive,304-84-7,Oc1ccc(cc1OC)C(=O)N(CC)CC,Ethamivan
+9415,inactive,315-22-0,O=C1OCC3=CCN2CC[C@@H](OC(=O)[C@H](C)[C@@](C)(O)[C@@]1(C)O)[C@H]23,Monocrotaline
+9642,active,356-12-7,CC(=O)OCC(=O)[C@]45OC(C)(C)O[C@@H]5C[C@@H]3[C@]4(C)C[C@H](O)[C@@]2(F)[C@H]3C[C@H](F)C1=CC(=O)C=C[C@@]12C,Fluocinonide
+9651,inactive,357-70-0,O[C@H]1C=C[C@@]42CCN(C)Cc3ccc(OC)c(O[C@H]2C1)c34,Galanthamine
+9681,inactive,361-37-5,CC[C@@H](CO)NC(=O)[C@@H]3C=C2c4cccc1c4c(cn1C)C[C@H]2N(C)C3,Methysergide
+9687,inactive,362-74-3,CCCC(=O)Nc4ncnc3c4ncn3[C@@H]2O[C@@H]1COP(=O)(O)O[C@H]1[C@H]2OC(=O)CCC,Bucladesine
+9782,active,378-44-9,OCC(=O)[C@@]4(O)[C@@H](C)C[C@@H]3[C@]4(C)C[C@H](O)[C@@]2(F)[C@H]3CCC1=CC(=O)C=C[C@@]12C,Betamethasone
+9878,active,426-13-1,CC(=O)[C@@]4(O)CC[C@@H]3[C@]4(C)C[C@H](O)[C@@]2(F)[C@H]3C[C@H](C)C1=CC(=O)C=C[C@@]12C,Fluorometholone
+10140,inactive,475-31-0,O=C(O)CNC(=O)CC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,Glycocholic acid
+10168,inactive,478-43-3,O=C(O)c3cc2C(=O)c1cccc(O)c1C(=O)c2c(O)c3,Rhein
+10208,inactive,481-74-3,Oc3cccc2C(=O)c1cc(C)cc(O)c1C(=O)c23,Chrysophanic acid
+10212,inactive,482-44-0,C/C(C)=C\COc1c3occc3cc2C=CC(=O)Oc12,Imperatorin
+10219,active,483-18-1,COc4cc5CCN[C@H](C[C@H]1C[C@H]2c3cc(OC)c(OC)cc3CCN2C[C@@H]1CC)c5cc4OC,Emetine
+10607,active,518-28-5,COc1cc(cc(OC)c1OC)[C@H]3[C@H]2C(=O)OC[C@@H]2[C@@H](O)c4cc5OCOc5cc34,Podofilox
+10621,inactive,520-26-3,COc1ccc(cc1O)[C@@H]2CC(=O)c3c(O)cc(cc3O2)O[C@@H]5O[C@H](CO[C@@H]4O[C@@H](C)[C@H](O)[C@@H](O)[C@H]4O)[C@@H](O)[C@H](O)[C@H]5O,Hesperidin
+10783,inactive,533-45-9,ClCCc1scnc1C,Clomethiazole
+11289,inactive,569-57-3,COc1ccc(cc1)C(\Cl)=C(/c2ccc(OC)cc2)c3ccc(OC)cc3,Chlorotrianisene
+11683,active,595-33-5,CC(=O)[C@@]3(OC(C)=O)CC[C@H]2[C@@H]4C=C(C)C1=CC(=O)CC[C@]1(C)[C@H]4CC[C@@]23C,Megestrol acetate
+12124,inactive,621-42-1,Oc1cccc(NC(C)=O)c1,3-Acetamidophenol
+13109,active,797-63-7,O=C4CC[C@H]3C(CC[C@@H]2[C@@H]3CC[C@@]1(CC)[C@H]2CC[C@@]1(O)C#C)=C4,Norgestrel
+14709,active,853-23-6,CC(=O)O[C@H]4CC[C@@]2(C)C(=CC[C@H]1[C@@H]3CCC(=O)[C@@]3(C)CC[C@@H]12)C4,Dehydroepiandrosterone acetate
+15032,inactive,1434-54-4,CC(=O)[C@H]4[C@H](C#N)C[C@@H]3[C@]4(C)CC[C@H]2[C@H]3CC=C1C[C@@H](O)CC[C@@]12C,Pregnenolone carbonitrile
+15209,active,1524-88-5,OCC(=O)[C@@]54OC(C)(C)O[C@@H]5C[C@@H]3[C@]4(C)C[C@H](O)[C@H]2[C@H]3C[C@H](F)C1=CC(=O)CC[C@@]12C,Flurandrenolide
+15387,inactive,3575-80-2,Fc1ccc(cc1)C(=O)CCCN2CCC(C)CC2,Methylperone
+15443,inactive,1649-18-9,Fc1ccc(cc1)C(=O)CCCN2CCN(CC2)c3ccccn3,Azaperone
+15459,inactive,1665-48-1,Cc1cc(cc(C)c1)OCC2CNC(=O)O2,Metaxalone
+15723,inactive,115-46-8,OC(c1ccccc1)(C2CCNCC2)c3ccccc3,Azacyclonol
+16231,inactive,2609-46-3,Clc1nc(C(=O)NC(=N)N)c(N)nc1N,Amiloride
+16351,active,2058-52-8,CN1CCN(CC1)C3=Nc4ccccc4Sc2ccc(Cl)cc23,Clothiapine
+16362,active,2062-78-4,Fc1ccc(cc1)C(CCCN2CCC(CC2)N3c4ccccc4NC3=O)c5ccc(F)cc5,Pimozide
+16363,inactive,2062-84-2,Fc1ccc(cc1)C(=O)CCCN2CCC(CC2)N3c4ccccc4NC3=O,Benperidol
+16490,active,2135-17-3,OCC(=O)[C@@]4(O)[C@H](C)C[C@@H]3[C@]4(C)C[C@H](O)[C@@]2(F)[C@H]3C[C@H](F)C1=CC(=O)C=C[C@@]12C,Flumethasone
+16574,active,2169-64-4,CC(=O)OC[C@H]2O[C@@H](N1N=CC(=O)NC1=O)[C@H](OC(C)=O)[C@@H]2OC(C)=O,6-Azaribine
+17134,inactive,2447-57-6,O=S(=O)(Nc1ncnc(OC)c1OC)c2ccc(N)cc2,Sulfadoxine
+19003,inactive,3485-14-1,OC(=O)[C@@H]2N3C(=O)[C@@H](NC(=O)C1(N)CCCCC1)[C@H]3SC2(C)C,Cyclacillin
+19529,active,3736-81-0,ClC(Cl)C(=O)N(C)c1ccc(cc1)OC(=O)c2ccco2,Diloxanide furoate
+20525,inactive,4460-86-0,COc1cc(OC)c(cc1OC)C=O,"2,4,5-Trimethoxybenzaldehyde"
+21138,inactive,5051-22-9,CC(C)NC[C@@H](O)COc2cccc1ccccc12,Dexpropranolol
+21307,inactive,5234-68-4,O=C(Nc1ccccc1)C=2SCCOC=2C,Carboxin
+21700,active,5534-09-8,CCC(=O)OCC(=O)[C@@]4(OC(=O)CC)[C@@H](C)C[C@@H]3[C@]4(C)C[C@H](O)[C@@]2(Cl)[C@H]3CCC1=CC(=O)C=C[C@@]12C,Beclazone
+24733,inactive,23930-37-2,CC(=O)OCC(=O)[C@H]1CC[C@H]2[C@@H]3CC[C@H]4C[C@H](O)CC[C@]4(C)[C@H]3C(=O)C[C@]12C,Alfadolone acetate
+26596,active,14255-87-9,O=C(OC)Nc1nc2cc(ccc2n1)CCCC,Parbendazole
+27200,inactive,15318-45-3,O=S(C)(=O)c1ccc(cc1)[C@@H](O)[C@@H](CO)NC(=O)C(Cl)Cl,Thiamphenicol
+27400,inactive,15574-96-6,CN1CC/C(CC1)=C3\c4ccccc4CCc2sccc23,Pizotyline
+27648,inactive,16034-77-8,O=C(O)C(C)CN(C(C)=O)c1c(I)cc(I)c(N)c1I,Iocetamic acid
+28061,inactive,16773-42-5,Cc1ncc([N+]([O-])=O)n1CC(O)CCl,Ornidazole
+28417,active,17230-88-5,C#C[C@]3(O)CC[C@H]2[C@@H]4CCC1=Cc5oncc5C[C@]1(C)[C@H]4CC[C@@]23C,Danazol
+28693,active,17692-51-2,O=C(OCc1ccccc1)NC[C@@H]3C[C@@H]4c5cccc2c5c(cn2C)C[C@H]4N(C)C3,Metergoline
+30323,active,20830-81-3,CC(=O)[C@@]4(O)C[C@H](O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1)c5c(O)c3C(=O)c2c(OC)cccc2C(=O)c3c(O)c5C4,Daunorubicin
+31072,inactive,22232-54-8,S=C1N(C=CN1C)C(=O)OCC,Carbimazole
+31101,active,25614-03-3,Brc3nc2cccc1C4=C[C@H](CN(C)[C@@H]4Cc3c12)C(=O)N[C@@]7(O[C@]6(O)N([C@@H](CC(C)C)C(=O)N5CCC[C@H]56)C7=O)C(C)C,Bromocriptine
+31307,active,124-94-7,OCC(=O)[C@@]3(O)[C@H](O)C[C@H]2[C@@H]4CCC1=CC(=O)C=C[C@]1(C)[C@@]4(F)[C@@H](O)C[C@@]23C,Triamcinolone
+31404,active,128-37-0,CC(C)(C)c1cc(C)cc(c1O)C(C)(C)C,Butylated hydroxytoluene
+31772,inactive,23256-30-6,O=S2(=O)CC(C)N(/N=C/c1ccc(o1)[N+]([O-])=O)CC2,Nifurtimox
+33255,inactive,25953-19-9,O=C(O)C=3N4C(=O)[C@@H](NC(=O)Cn1cnnn1)[C@H]4SCC=3CSc2nnc(C)s2,Cefazolin
+33624,inactive,26839-75-8,O[C@H](COc1nsnc1N2CCOCC2)CNC(C)(C)C,Timolol
+34040,inactive,27848-84-6,Brc1cc(cnc1)C(=O)OC[C@@H]3C[C@]4(OC)c5cccc2c5c(cn2C)C[C@H]4N(C)C3,Nicergoline
+34458,inactive,522-97-4,COc1c(OC)ccc2CC3N(Cc12)CCc4cc5OCOc5cc34,Canadine
+35370,inactive,30516-87-1,CC1=CN(C(=O)NC1=O)[C@H]2C[C@H](\N=[N+]=[N-])[C@@H](CO)O2,3'-Azido-3'-deoxythymidine
+36314,inactive,33069-62-4,O=C(N[C@@H](c1ccccc1)[C@@H](O)C(=O)O[C@H]5C[C@@]6(O)[C@@H](OC(=O)c2ccccc2)[C@H]4[C@@](C)([C@@H](O)C[C@H]3OC[C@]34OC(C)=O)C(=O)[C@H](OC(C)=O)C(=C5C)C6(C)C)c7ccccc7,Paclitaxel
+36811,inactive,34368-04-2,Oc2ccc(CCNC(C)CCc1ccc(O)cc1)cc2O,Dobutamine
+37175,active,35554-44-0,Clc2ccc(C(OCC=C)Cn1ccnc1)c(Cl)c2,Imazalil
+39042,active,41859-67-0,O=C(NCCc1ccc(OC(C)(C)C(=O)O)cc1)c2ccc(Cl)cc2,Bezafibrate
+39186,active,42399-41-7,CN(C)CCN1c3ccccc3S[C@H]([C@@H](OC(C)=O)C1=O)c2ccc(OC)cc2,Diltiazem
+39385,inactive,43121-43-3,CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n2cncn2,Triadimefon
+39912,inactive,51146-56-6,C[C@H](C(=O)O)c1ccc(CC(C)C)cc1,Dexibuprofen
+40632,inactive,53179-13-8,CC2=CN(c1ccccc1)C(=O)C=C2,Pirfenidone
+40854,inactive,53716-50-0,O=C(OC)Nc1nc2cc(ccc2n1)S(=O)c3ccccc3,Oxfendazole
+41368,inactive,55219-65-3,CC(C)(C)C(O)C(Oc1ccc(Cl)cc1)n2cncn2,Triadimenol
+41781,active,56211-40-6,O=S(=O)(NC(=O)NC(C)C)c2cnccc2Nc1cc(C)ccc1,Torsemide
+43231,inactive,60200-06-8,Nc1cc(c(cc1S(=O)(N)=O)S(N)(=O)=O)C(/Cl)=C(/Cl)Cl,Clorsulon
+43507,inactive,60925-61-3,NCc4ccccc4CC(=O)N[C@@H]3C(=O)N2C(=C(CSc1nnnn1CC(=O)O)CS[C@@H]23)C(=O)O,Ceforanide
+43815,active,61869-08-7,Fc1ccc(cc1)[C@@H]4CCNC[C@H]4COc2ccc3OCOc3c2,Paroxetine
+44093,inactive,62571-86-2,OC(=O)[C@@H]1CCCN1C(=O)[C@H](C)CS,Captopril
+47528,inactive,65141-46-0,O=C(NCCO[N+]([O-])=O)c1cccnc1,Nicorandil
+48229,active,66898-62-2,FC(F)(F)c1cc(ccc1)Nc2ncccc2C(=O)OC4OC(=O)c3ccccc34,Talniflumate
+49381,inactive,67121-76-0,CN1CCN(CC1)C2=Nc4cc(F)ccc4Cc3ccccc23,Fluperlapine
+50287,inactive,69014-14-8,N/C(N)=N/c1nc(CSCCNC(=N\C#N)\NC)cs1,Tiotidine
+51173,inactive,70788-28-2,O=C(NP(N)(N)=O)c1ccc(F)cc1,Flurofamide
+53232,active,75330-75-5,C[C@@H](CC)C(=O)O[C@H]2C[C@@H](C)C=C3C=C[C@H](C)[C@H](CC[C@@H]1C[C@@H](O)CC(=O)O1)[C@@H]23,Lovastatin
+54454,active,79902-63-9,CC(C)(CC)C(=O)O[C@H]2C[C@@H](C)C=C3C=C[C@H](C)[C@H](CC[C@@H]1C[C@@H](O)CC(=O)O1)[C@@H]23,Simvastatin
+54459,active,79944-58-4,c1ccc2OC(COc2c1)C3=NCCN3,Idazoxan
+54477,inactive,80125-14-0,CCN2CCC[C@H]2CNC(=O)c1c(OC)ccc(Br)c1OC,Remoxipride
+54746,inactive,81409-90-7,CCNC(=O)N(CCCN(C)C)C(=O)[C@@H]1C[C@@H]2c3cccc4ncc(C[C@H]2N(C1)CC=C)c34,Cabergoline
+55245,active,84371-65-3,CN(C)c1ccc(cc1)[C@H]5C[C@@]2(C)[C@@H](CC[C@@]2(O)C#CC)[C@@H]4CCC3=CC(=O)CCC3=C45,Mifepristone
+56971,inactive,95847-70-4,O=C4c1ccccc1S(=O)(=O)N4CCCCN2CCN(CC2)c3ncccn3,Ipsapirone
+57242,inactive,97466-90-5,Nc1ncc2C[C@H]3N(CCC[C@@H]3Cc2n1)CCC,Quinelorane
+57363,inactive,98319-26-7,CC(C)(C)NC(=O)[C@H]4CC[C@@H]3[C@]4(C)CC[C@H]1[C@H]3CC[C@H]2NC(=O)C=C[C@]12C,Finasteride
+57364,inactive,98323-83-2,O=C(O)c3ccc4ncc(CCCCN1CC=C(CC1)c2ccccc2)c4c3,Carmoxirole
+60703,active,119431-25-3,OC(CN1CCC(CC1)Cc2ccc(F)cc2)c3ccc(Cl)cc3,Eliprodil
+60785,inactive,127625-29-0,Fc1ccc(cc1)N2CCN(CC2)CCCN5c4cccc3cccc(c34)S5(=O)=O,Fananserin
+60910,inactive,76541-72-5,Clc1ccc(cc1)C(OP(=O)(OC)OC)P(=O)(OC)OC,Mifobate
+60961,active,58-61-7,Nc3ncnc2c3ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O,Adenosine
+62389,inactive,1214-39-7,N2=CN=C3N=CNC(NCc1ccccc1)=C23,N-Benzyladenine
+64715,inactive,73573-88-3,C[C@@H](CC)C(=O)O[C@H]2CCC=C3C=C[C@H](C)[C@H](CC[C@@H]1C[C@@H](O)CC(=O)O1)[C@@H]23,Mevastatin
+64782,inactive,552-79-4,O[C@@H]([C@H](C)N(C)C)c1ccccc1,Methylephedrine
+64961,inactive,244-63-3,c2cncc3nc1ccccc1c23,Norharman
+65552,active,67-30-1,O=C(O)Cc2cc(I)c(Oc1cc(I)c(O)c(I)c1)c(I)c2,Tetrac
+65854,inactive,98330-05-3,Clc2nc(SC1CCNCC1)ccc2,Anpirtoline
+65889,inactive,105219-56-5,Clc1ccccc1C4=NCc2nnc(C)n2c3sc(cc34)CCC(=O)N5CCOCC5,Apafant
+65909,active,109826-26-8,O=C2Nc1ccccc1N2C3CCN(CC3)CC5(C)OCc6ccccc6n4cccc45,Zaldaride
+65981,active,135062-02-1,O=C(O)c1ccc(cc1OCC)CC(=O)N[C@@H](CC(C)C)c2ccccc2N3CCCCC3,Repaglinide
+68093,inactive,486-79-3,O=C(C)Oc1cccc(c1OC(C)=O)C(=O)O,Dipyrocetyl
+68186,active,510-74-7,Fc1ccc(cc1)OCCCN2CCC4(CC2)C(=O)NCN4c3ccccc3,AMI-193
+68844,inactive,138890-62-7,NS(=O)(=O)c1cc2[C@H](CN(CCCOC)S(=O)(=O)c2s1)NCC,Brinzolamide
+68848,inactive,64795-35-3,CN(C)S(=O)(=O)N[C@H]2C[C@@H]3c4cccc1c4c(cn1C)C[C@H]3N(C)C2,Mesulergine
+69301,inactive,621-23-8,COc1cc(cc(OC)c1)OC,"1,3,5-Trimethoxybenzene"
+70912,inactive,1188-21-2,O=C(C)N[C@@H](CC(C)C)C(=O)O,Acetyl-L-leucine
+71277,active,134-36-1,CCC(=O)O[C@@H]3[C@H](C[C@@H](C)O[C@H]3O[C@@H]2[C@@H](C)[C@H](O[C@H]1C[C@@](C)(OC)[C@@H](O)[C@H](C)O1)[C@@H](C)C(=O)O[C@H](CC)[C@@](C)(O)[C@H](O)[C@@H](C)C(=O)[C@H](C)C[C@@]2(C)O)N(C)C,Erythromycin propionate
+71414,active,33564-31-7,CC(=O)OCC(=O)[C@@]4(OC(C)=O)[C@@H](C)C[C@@H]3[C@]4(C)C[C@H](O)[C@@]2(F)[C@H]3C[C@H](F)C1=CC(=O)C=C[C@@]12C,Diflorasone diacetate
+71651,inactive,3440-28-6,O=C(NCCC(=O)O)c1ccccc1,Betamipron
+71771,active,89796-99-6,Clc2cccc(Cl)c2Nc1ccccc1CC(=O)OCC(=O)O,Aceclofenac
+71777,inactive,103055-07-8,Clc2cc(NC(=O)NC(=O)c1c(F)cccc1F)c(Cl)cc2OC(F)(F)C(F)C(F)(F)F,Lufenuron
+71815,inactive,3366-95-8,Cc1ncc([N+]([O-])=O)n1CC(O)C,Secnidazole
+72016,inactive,89197-32-0,CCC1(Cc2ccccc2O1)C3=NCCN3,Efaroxan
+72124,inactive,115344-47-3,N#CN/C(NC)=N/c1ccc(cc1)C2=NNC(=O)CC2C,Siguazodan
+72139,inactive,4991-65-5,Oc1cc2OC(=O)Sc2cc1,Thioxolone
+72276,inactive,490-46-0,Oc1ccc(cc1O)[C@H]2Oc3cc(O)cc(O)c3C[C@H]2O,(-)-Epicatechin
+82153,active,3385-03-3,OCC(=O)[C@@]54OC(C)(C)O[C@@H]5C[C@@H]3[C@]4(C)C[C@H](O)[C@H]2[C@H]3C[C@H](F)C1=CC(=O)C=C[C@@]12C,Flunisolide
+91610,active,33342-05-1,O=C(NC1CCCCC1)NS(=O)(=O)c2ccc(cc2)CCN4C(=O)c3cc(ccc3C(C)(C)C4=O)OC,Gliquidone
+92786,active,128-20-1,CC(=O)[C@H]4CC[C@@H]3[C@]4(C)CC[C@H]1[C@H]3CC[C@H]2C[C@H](O)CC[C@]12C,Eltanolone
+93504,inactive,94535-50-9,O=C3CCCN3[C@@H]1c2cc(ccc2OC(C)(C)[C@H]1O)C#N,Levcromakalim
+98613,inactive,34176-52-8,NNc1nc(cs1)c2ccccc2,2-Hydrazino-4-phenylthiazole
+101616,inactive,90-69-7,CN2[C@H](CCC[C@H]2C[C@H](O)c1ccccc1)CC(=O)c3ccccc3,Lobeline
+104845,inactive,23930-19-0,CC(=O)[C@H]1CC[C@H]2[C@@H]3CC[C@H]4C[C@H](O)CC[C@]4(C)[C@H]3C(=O)C[C@]12C,Alphaxalone
+107715,active,17479-19-5,CN1C[C@@H](C[C@@H]2c3cccc4ncc(C[C@@H]12)c34)C(=O)N[C@@]8(O[C@]7(O)N([C@@H](Cc5ccccc5)C(=O)N6CCC[C@H]67)C8=O)C(C)C,Dihydroergocristine
+107807,inactive,82834-16-0,O=C(OCC)[C@H](CCC)N[C@@H](C)C(=O)N1[C@@H](C[C@@H]2CCCC[C@H]12)C(=O)O,Perindopril
+107867,inactive,102394-31-0,O=C(CN1CCCCC1CN(CC)CC)N4c2ccccc2C(=O)Nc3cccnc34,AF-DX 116
+107930,inactive,112108-01-7,Oc3cc4[C@@H]1[C@H](CCc2ccccc12)N(C)CCc4cc3Cl,Ecopipam
+108092,inactive,98774-23-3,CCN(CCOc1ccc(cc1)Cc2ccccc2)CC,Tesmilifene
+114811,inactive,73231-34-2,O=S(C)(=O)c1ccc(cc1)[C@@H](O)[C@@H](CF)NC(=O)C(Cl)Cl,Florfenicol
+119607,inactive,181695-72-7,NS(=O)(=O)c1ccc(cc1)c3c(C)onc3c2ccccc2,Valdecoxib
+122077,active,136381-85-6,O=C(Nc1nc(cs1)c2ccccc2Cl)c4cc3ccccc3n4CC(=O)O,Lintitript
+123606,inactive,154323-57-6,O=S(=O)(Cc1ccc2ncc(CCN(C)C)c2c1)N3CCCC3,Almotriptan
+123924,active,156727-74-1,CCN(CC)C(=O)c1ccc(cc1)[C@H](c2cc(OC)ccc2)N3C[C@@H](C)N(C[C@@H]3C)CC=C,SNC 80
+127404,inactive,116861-00-8,CC(C)NCC(O)COc1ccccc1n2cccc2,Isamoltan
+130881,inactive,144689-63-4,CC=5OC(=O)OC=5COC(=O)c4c(nc(CCC)n4Cc1ccc(cc1)c3ccccc3c2nnnn2)C(C)(C)O,Olmesartan medoxomil
+133621,inactive,81167-16-0,CCn3ccnc3CC1COc2ccccc2O1,Imiloxan
+156391,inactive,22204-53-1,O=C(O)[C@@H](C)c1ccc2cc(ccc2c1)OC,Naproxen
+170344,inactive,63245-28-3,O=C(Nc1c(cccc1CC)CC)CN(CC(=O)O)CC(=O)O,Etifenin
+171548,inactive,58-85-5,O=C1N[C@@H]2[C@H](CCCCC(=O)O)SC[C@@H]2N1,Biotin
+174174,inactive,51-55-8,CN3[C@H]1CC[C@@H]3C[C@@H](C1)OC(=O)C(CO)c2ccccc2,Atropine
+179651,active,1180-71-8,C[C@]35CC[C@@H]1[C@@]76COC(=O)C[C@@H]7OC(C)(C)[C@@H]6CC(=O)[C@@]1(C)[C@@]45O[C@@H]4C(=O)O[C@H]3c2ccoc2,Limoni
+180559,inactive,56715-13-0,CC(C)NC[C@@H](O)COc1ccc(cc1)CC(N)=O,R-(+)-Atenolol
+193949,inactive,39731-05-0,CC(C)(C)NCC(O)COc2cccc1nc(cc12)C(=O)OC(C)C,SDZ 21009
+205586,inactive,494-52-0,n1cc(ccc1)[C@@H]2CCCCN2,L-3-(2'-Piperidyl)pyridine
+219081,inactive,33414-36-7,OCCN1CCN(CC1)CCC(=O)N2c4ccccc4Sc3ccc(cc23)C(F)(F)F,Ftorpropazine
+221071,inactive,481-06-1,O=C1C=C[C@]2(C)CC[C@H]3[C@H](C)C(=O)O[C@@H]3C2=C1C,alpha-Santonin
+222757,active,50-50-0,O=C(Oc3cc4CC[C@@H]1[C@H](CC[C@]2(C)[C@@H](O)CC[C@@H]12)c4cc3)c5ccccc5,Estradiol benzoate
+222786,active,53-06-5,OCC(=O)[C@@]3(O)CC[C@H]2[C@@H]4CCC1=CC(=O)CC[C@]1(C)[C@H]4C(=O)C[C@@]23C,Cortisone
+223368,active,474-86-2,Oc3cc4CC=C1[C@H](CC[C@]2(C)C(=O)CC[C@@H]12)c4cc3,Equilin
+236702,active,1177-87-3,CC(=O)OCC(=O)[C@@]4(O)[C@H](C)C[C@@H]3[C@]4(C)C[C@H](O)[C@@]2(F)[C@H]3CCC1=CC(=O)C=C[C@@]12C,Dexamethasone acetate
+247839,active,2668-66-8,CC(=O)[C@H]4CC[C@@H]2[C@]4(C)C[C@H](O)[C@@H]1[C@@]3(C)CCC(=O)C=C3[C@@H](C)C[C@H]12,Medrysone
+439501,active,630-60-4,O=C1C=C(CO1)[C@H]2CC[C@]3(O)[C@@H]4CC[C@]5(O)C[C@H](C[C@@H](O)[C@]5(CO)[C@H]4[C@H](O)C[C@]23C)O[C@@H]6O[C@@H](C)[C@H](O)[C@@H](O)[C@H]6O,Ouabain
+441199,inactive,35607-66-0,O=C(O)C=2N3C(=O)[C@](NC(=O)Cc1cccs1)(OC)[C@H]3SCC=2COC(N)=O,Cefoxitin
+441336,active,83919-23-7,ClCC(=O)[C@@]5(OC(=O)c1ccco1)[C@H](C)C[C@@H]3[C@]5(C)C[C@H](O)[C@]2(Cl)[C@@]4(C)C=CC(=O)C=C4CC[C@H]23,Mometasone furoate
+441383,inactive,67915-31-5,CC(C)N1CCN(CC1)c2ccc(cc2)OC[C@H]4CO[C@@](Cn3ncnc3)(O4)c5ccc(Cl)cc5Cl,Terconazole
+442972,active,4449-51-8,CC4=C5C[C@@H]1[C@@]6(C)CC[C@H](O)CC6=CC[C@H]1[C@@H]5CC[C@@]24O[C@@H]3C[C@H](C)CN[C@H]3[C@H]2C,Cyclopamine
+443375,active,103420-77-5,O=C(N[C@H]2N=C(c1ccccc1N(C)C2=O)c3ccccc3)c4cc5ccccc5n4,Devazepide
+443943,active,3093-35-4,ClCC(=O)[C@@]54OC(C)(C)O[C@@H]5C[C@@H]3[C@]4(C)C[C@H](O)[C@@]2(F)[C@H]3CCC1=CC(=O)CC[C@@]12C,Halcinonide
+443944,inactive,31112-62-6,OC2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2NC(=O)c1c(I)c(NC(C)=O)c(I)c(N(C)C(C)=O)c1I,Metrizamide
+443955,inactive,42971-09-5,O=C(OCC)C1=C[C@@]5(CCCN4CCc3c(n1c2ccccc23)[C@@H]45)CC,Vinpocetine
+445154,active,501-36-0,Oc2cc(/C=C/c1ccc(O)cc1)cc(O)c2,Resveratrol
+445580,inactive,6217-54-5,O=C(O)CC/C=C\C\C=C/C/C=C\C/C=C\C/C=C\C/C=C\CC,Docosahexaenoic acid
+446284,active,10417-94-4,O=C(O)CCC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CC,Eicosapentaenoic acid
+446541,active,24280-93-1,O=C(O)CCC(\C)=C\Cc1c(O)c2C(=O)OCc2c(C)c1OC,Mycophenolic acid
+448537,active,56-53-1,Oc1ccc(cc1)C(\CC)=C(/CC)c2ccc(O)cc2,Diethylstilbestrol
+456201,active,65277-42-1,CC(=O)N1CCN(CC1)c2ccc(cc2)OC[C@H]4CO[C@@](Cn3cncc3)(O4)c5ccc(Cl)cc5Cl,Ketoconazole
+610479,active,13710-19-5,Cc2c(Nc1ccccc1C(=O)O)cccc2Cl,Tolfenamic acid
+638024,inactive,94-62-2,O=C(/C=C/C=C/c1ccc2OCOc2c1)N3CCCCC3,Piperine
+643606,inactive,131-03-3,O=C(OC)[C@@H]2[C@@H](O)CC[C@@H]3CN4CCc1c5ccccc5nc1[C@@H]4C[C@H]23,Rauwolscine
+644213,active,22978-25-2,O=C(Nc1ccccc1)c2cc(ccc2Cl)[N+]([O-])=O,2-Chloro-5-nitro-N-phenylbenzamide
+657298,inactive,51-52-5,S=C1NC(CCC)=CC(=O)N1,6-Propyl-2-thiouracil
+667466,inactive,113-59-7,CN(C)CC\C=C1/c3ccccc3Sc2ccc(Cl)cc12,Chlorprothixene
+667476,active,84-17-3,Oc1ccc(cc1)C(=C\C)/C(=C/C)c2ccc(O)cc2,Dienestrol
+688272,inactive,23672-07-3,CCN2CCC[C@H]2CNC(=O)c1cc(ccc1OC)S(N)(=O)=O,Levosulpiride
+697993,active,149-30-4,Sc1nc2ccccc2s1,2-Mercaptobenzothiazole
+854019,inactive,486-56-6,CN2C(=O)CC[C@H]2c1cnccc1,Cotinine
+854026,inactive,102518-79-6,CC2=C[C@H]\3CC=1NC(=O)C=CC=1[C@@](N)(C2)C/3=C\C,Huperzine A
+941361,active,52468-60-7,Fc1ccc(cc1)C(c2ccc(F)cc2)N3CCN(CC3)C/C=C/c4ccccc4,Flunarizine
+969516,active,458-37-7,Oc1ccc(cc1OC)/C=C/C(=O)CC(=O)/C=C/c2ccc(O)c(OC)c2,Curcumin
+1547484,active,298-57-7,c1ccccc1C(c2ccccc2)N3CCN(CC3)C/C=C/c4ccccc4,Cinnarizine
+2724385,active,20830-75-5,O=C1C=C(CO1)[C@H]2CC[C@@]8(O)[C@]2(C)[C@H](O)C[C@H]4[C@H]8CC[C@@H]3C[C@H](CC[C@@]34C)O[C@@H]7O[C@H](C)[C@@H](O[C@H]6C[C@H](O)[C@H](O[C@H]5C[C@H](O)[C@H](O)[C@@H](C)O5)[C@@H](C)O6)[C@@H](O)C7,Digoxin
+2733526,active,10540-29-1,CN(C)CCOc1ccc(cc1)/C(c2ccccc2)=C(/CC)c3ccccc3,Tamoxifen
+2761171,inactive,536-33-4,CCc1cc(ccn1)C(N)=S,Ethionamide
+3002119,active,804-30-8,Cc2ncc(CN(C=O)C(/C)=C(/SSCC1CCCO1)CCO)c(N)n2,Fursultiamine
+3032818,inactive,26159-36-4,C[C@H](CO)c1ccc2cc(ccc2c1)OC,Naproxol
+3033769,inactive,84225-95-6,CCN2CCC[C@H]2CNC(=O)c1c(O)c(Cl)cc(Cl)c1OC,Raclopride
+3058754,active,169590-41-4,NS(=O)(=O)c1ccc(cc1)n3nc(cc3c2ccc(OC)c(F)c2)C(F)F,Deracoxib
+3086618,active,127308-82-1,c1cc(cc2OCOc12)CCN5CCC[C@@H](OC(c3ccccc3)c4ccccc4)C5,Zamifenacin
+4302960,inactive,162408-66-4,CC(=O)c1ccc(cc1)c2ccc(cc2)C(=O)NCCCCN3CCN(CC3)c4ccccc4OC,GR 103691
+5280343,active,117-39-5,Oc1ccc(cc1O)C=3Oc2cc(O)cc(O)c2C(=O)C=3O,Quercetin
+5280360,inactive,363-24-6,O[C@@H]1CC(=O)[C@H](C/C=C\CCCC(=O)O)[C@H]1/C=C/[C@@H](O)CCCCC,Dinoprostone
+5280378,active,485-72-3,COc1ccc(cc1)C3=COc2cc(O)ccc2C3=O,Formononetin
+5280450,active,60-33-3,O=C(O)CCCCCCC/C=C\C/C=C\CCCCC,Linoleic acid
+5280567,active,90-33-5,Oc1ccc2c(c1)OC(=O)C=C2C,4-Methylumbelliferone
+5280723,active,745-65-3,O[C@@H]1CC(=O)[C@H](CCCCCCC(=O)O)[C@H]1/C=C/[C@@H](O)CCCCC,Alprostadil
+5280863,active,520-18-3,Oc1ccc(cc1)C=3Oc2cc(O)cc(O)c2C(=O)C=3O,Kaempferol
+5280933,inactive,506-26-3,O=C(O)CCCC\C=C/C/C=C\C/C=C\CCCCC,Gamolenic acid
+5280934,active,463-40-1,O=C(O)CCCCCCC/C=C\C/C=C\C/C=C\CC,Linolenic acid
+5280961,active,446-72-0,Oc1ccc(cc1)C3=COc2cc(O)cc(O)c2C3=O,Genistein
+5281565,inactive,500-64-1,O=C2C=C(C[C@H](/C=C/c1ccccc1)O2)OC,Kavain
+5281607,active,480-40-0,Oc2cc(O)cc1OC(=CC(=O)c12)c3ccccc3,Chrysin
+5281707,active,479-13-0,Oc2cc3OC(=O)c1c4ccc(O)cc4oc1c3cc2,Coumestrol
+5281708,active,486-66-8,Oc1ccc(cc1)C3=COc2cc(O)ccc2C3=O,Daidzein
+5281881,active,53772-82-0,FC(F)(F)c2cc3C(=C\CCN1CCN(CCO)CC1)/c4ccccc4Sc3cc2,cis-Flupentixol
+5282138,active,132203-70-4,CC=1NC(C)=C(C(C=1C(=O)OCCOC)c2cccc(c2)[N+]([O-])=O)C(=O)OC/C=C/c3ccccc3,Cilnidipine
+5282230,active,53902-12-8,COc1cc(ccc1OC)/C=C/C(=O)Nc2ccccc2C(=O)O,Tranilast
+5282379,active,4759-48-2,CC=1CCCC(C)(C)C=1/C=CC(\C)=C\C=CC(/C)=C\C(=O)O,13-cis Retinoic acid
+5282443,inactive,486-12-4,Cc1ccc(cc1)C(=C\CN2CCCC2)/c3ccccn3,Triprolidine
+5282493,active,34097-16-0,CC(C)(C)C(=O)OCC(=O)[C@H]4[C@H](C)C[C@@H]3[C@]4(C)C[C@H](O)[C@@]2(Cl)[C@H]3C[C@H](F)C1=CC(=O)C=C[C@@]12C,Clocortolone pivalate
+5282593,inactive,87-00-3,CN3[C@@H]1CC[C@H]3C[C@H](C1)OC(=O)C(O)c2ccccc2,dl-Homatropine
+5283344,inactive,75899-68-2,CCCCCC(O)/C=C/C=O,4-Hydroxy-2-nonenal
+5283389,inactive,179113-91-8,O=C(CCC/C=C\C/C=C\C/C=C\C/C=C\CCCCC)NCC(=O)O,N-Arachidonylglycine
+5284373,active,59865-13-3,C[C@H](C\C=C\C)[C@@H](O)[C@H]1C(=O)N[C@@H](CC)C(=O)N(C)CC(=O)N(C)[C@@H](CC(C)C)C(=O)N[C@H](C(=O)N(C)[C@@H](CC(C)C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N(C)[C@@H](CC(C)C)C(=O)N(C)[C@@H](CC(C)C)C(=O)N(C)[C@@H](C(C)C)C(=O)N1C)C(C)C,Cyclosporin A
+5284557,active,434-03-7,O=C4CC[C@@]3(C)C(CC[C@@H]2[C@@H]3CC[C@@]1(C)[C@H]2CC[C@@]1(O)C#C)=C4,Ethisterone
+5284596,inactive,465-65-6,O=C1CC[C@@]5(O)[C@H]2Cc4ccc(O)c3O[C@@H]1[C@]5(CCN2CC=C)c34,Naloxone
+5284616,active,53123-88-9,O[C@@H]1CC[C@H](C[C@H]1OC)C[C@@H](C)[C@H]2OC(=O)[C@@H]4CCCCN4C(=O)C(=O)[C@]3(O)O[C@H](C[C@H](OC)C(C)=CC=CC=C[C@@H](C)C[C@@H](C)C(=O)[C@H](OC)[C@H](O)C(C)=C[C@@H](C)C(=O)C2)CC[C@H]3C,Sirolimus
+5288209,active,65646-68-6,CC=2CCCC(C)(C)C=2/C=CC(\C)=C\C=C\C(\C)=C\C(=O)Nc1ccc(O)cc1,4-Hydroxyphenyl retinamide
+5311100,inactive,40666-16-8,O[C@H]2C[C@@H](O)[C@H](/C=C/[C@@H](O)COc1cc(ccc1)C(F)(F)F)[C@H]2C\C=C/CCCC(=O)O,Fluprostenol
+5311304,inactive,20594-83-6,Oc1ccc2C[C@H]4N(CC[C@@]35[C@@H](Oc1c23)[C@@H](O)CC[C@@]45O)CC6CCC6,Nalbuphine
+5323714,active,67-45-8,[O-][N+](=O)c2oc(/C=N/N1CCOC1=O)cc2,Furazolidone
+5360515,inactive,16590-41-3,O=C1CC[C@@]6(O)[C@H]3Cc5ccc(O)c4O[C@@H]1[C@]6(CCN3CC2CC2)c45,Naltrexone
+5375199,inactive,14375-45-2,OC1(/C=C/C(/C)=C\C(=O)O)C(C)=CC(=O)CC1(C)C,Abscisic acid
+5388962,inactive,75847-73-3,OC(=O)[C@@H]2CCCN2C(=O)[C@H](C)N[C@@H](CCc1ccccc1)C(=O)OCC,Enalapril
+5475158,inactive,1166-34-3,CN(C)CCCSc2ccccc2NC(=O)/C=C/c1ccccc1,Cinanserin
+5478883,inactive,26305-03-3,OC(=O)C[C@H](O)[C@@H](NC(=O)[C@H](C)NC(=O)C[C@H](O)[C@H](CC(C)C)NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CC(C)C)C(C)C)C(C)C)CC(C)C,Pepstatin
+6714002,active,73771-04-7,CCC(=O)OCC(=O)[C@@]4(OC(=O)OCC)CC[C@@H]3[C@]4(C)C[C@H](O)[C@H]2[C@H]3CCC1=CC(=O)C=C[C@@]12C,Prednicarbate
+9872438,active,344930-95-6,CC(C)c1cc(cc5c1C(=O)N(COC3=CC(=O)N4C=CC=C(OCCN2CCCCC2)C4=N3)S5(=O)=O)OC,SSR69071
+54676038,inactive,66-76-2,OC=3c4ccccc4OC(=O)C=3CC1=C(O)c2ccccc2OC1=O,Dicumarol
+54676478,inactive,84088-42-6,CN(c1ccccc1)C(=O)C3=C(O)c2ccccc2N(C)C3=O,Roquinimex
+54676537,active,152-72-7,[O-][N+](=O)c1ccc(cc1)C(CC(C)=O)C2=C(O)c3ccccc3OC2=O,Acenocoumarol
+54678486,active,81-81-2,CC(=O)CC(C1=C(O)c2ccccc2OC1=O)c3ccccc3,Warfarin

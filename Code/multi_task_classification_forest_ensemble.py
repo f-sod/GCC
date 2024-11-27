@@ -81,7 +81,7 @@ class MultiTaskForestEnsemble:
                         fold_score_arr = []
 
                         for fold in folds:
-                            print(fold)
+
                             X_fold = X_train_cleaned.iloc[fold[0]]
                             y_fold = y_train_cleaned.iloc[fold[0]]
                             current_rf.fit(X_fold, y_fold)

@@ -1,1 +1,5 @@
 __pycache__
+.ipynb_checkpoints
+*.pkl
+Data/Annotations/Tox21_assay_aggregrated.csv
+Data/Output/Tox21_annotation.csv
