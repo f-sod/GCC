@@ -8,19 +8,19 @@ from sklearn.model_selection import StratifiedKFold
 
 
 def main():
-    profiles_cid = pd.read_pickle('../Data/Output/profiles_with_CID.pkl')
+    #profiles_cid = pd.read_pickle('../Data/Output/profiles_with_CID.pkl')
 
-    profiles_cid.drop(
-        columns=['Metadata_broad_sample', 'CPD_NAME', 'CPD_SMILES'], inplace=True)
+    #profiles_cid.drop(
+    #    columns=['Metadata_broad_sample', 'CPD_NAME', 'CPD_SMILES'], inplace=True)
+    
+
+    profiles_cid = pd.read_csv('../Data/CellProfiles/structural_fps_matrix.csv', sep = '\t')
     profiles_cid.set_index('CID', drop=True, inplace=True)
-
-    # profiles_cid = pd.read_csv('../Data/CellProfiles/structural_fps_matrix.csv', sep = '\t')
-    # profiles_cid.set_index('CID', drop=True, inplace=True)
-    # responses = pd.read_csv(
-    #    '../Data/Output/activity_to_receptors.csv', sep='\t')
-    responses = pd.read_csv('../Data/Output/agonists.csv', sep='\t')
+    responses = pd.read_csv(
+        '../Data/Output/activity_to_receptors.csv', sep='\t')
+    #responses = pd.read_csv('../Data/Output/agonists.csv', sep='\t')
     responses.set_index('receptor', drop=True, inplace=True)
-    # responses.drop(index='rxr', inplace=True)
+    #responses.drop(index='rxr', inplace=True)
     responses.columns = responses.columns.astype('int')
     responses = responses.astype('float')
     present_cids = set(responses.columns)
@@ -30,7 +30,7 @@ def main():
 
     profiles_cid = profiles_cid[~profiles_cid.index.duplicated(
         keep='first')]
-    # n_forests = 7
+    #n_forests = 7
     n_forests = 8
     mfe = MultiTaskForestEnsemble(n_forests=n_forests, class_weight='balanced', n_tree_range=[
                                   100, 200, 300, 400, 500], max_depth_range=[10, 20, 30], min_samples_leaf_range=[5, 10, 15])
@@ -83,7 +83,7 @@ def main():
     predictions_train = mfe.predict(
         X_test=profiles_cid, test_indices=train_indices, train_feature_list=features_for_training)
 
-    output_path = '../results_receptor_specific_models_agonists_morphological_fps.csv'
+    output_path = '../Data/Output/results_receptor_specific_models_all_structural_fps.csv'
     with open(output_path, 'w') as output:
         output.write(f'set\treceptor\tMCC\tbalanced acc\tAUC\n')
     for i, pred in enumerate(predictions_test):
